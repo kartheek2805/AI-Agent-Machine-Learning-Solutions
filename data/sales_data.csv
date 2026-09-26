@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Customer_ID,Product_ID,Product_Name,Category,Unit_Price,Units_Sold,Total_Revenue,Profit,Customer_Rating,Region
+TXN-10000,2025-01-01,CUST-139,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,703.21,4.5,Asia Pacific
+TXN-10001,2025-01-01,CUST-129,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1101.76,4.0,Europe
+TXN-10002,2025-01-02,CUST-115,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1700.18,4.5,Europe
+TXN-10003,2025-01-02,CUST-143,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,1896.85,4.0,North America
+TXN-10004,2025-01-03,CUST-108,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,1669.38,4.5,North America
+TXN-10005,2025-01-03,CUST-121,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,486.98,4.0,North America
+TXN-10006,2025-01-04,CUST-139,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,3460.18,5.0,North America
+TXN-10007,2025-01-04,CUST-119,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,2388.36,5.0,Europe
+TXN-10008,2025-01-05,CUST-123,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,1032.01,4.5,Asia Pacific
+TXN-10009,2025-01-05,CUST-111,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1985.65,4.0,Europe
+TXN-10010,2025-01-06,CUST-111,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,1293.9,4.0,Europe
+TXN-10011,2025-01-06,CUST-124,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,2584.99,5.0,Latin America
+TXN-10012,2025-01-07,CUST-136,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,1464.35,4.0,Asia Pacific
+TXN-10013,2025-01-07,CUST-140,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3087.16,4.0,Latin America
+TXN-10014,2025-01-08,CUST-124,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1725.52,3.5,Europe
+TXN-10015,2025-01-08,CUST-103,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,2131.26,4.5,North America
+TXN-10016,2025-01-09,CUST-122,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,1026.24,4.5,North America
+TXN-10017,2025-01-09,CUST-102,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,477.77,5.0,Asia Pacific
+TXN-10018,2025-01-10,CUST-124,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1245.4,4.0,North America
+TXN-10019,2025-01-10,CUST-144,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,4837.95,4.0,North America
+TXN-10020,2025-01-11,CUST-130,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,415.04,5.0,Europe
+TXN-10021,2025-01-11,CUST-138,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,942.41,5.0,Europe
+TXN-10022,2025-01-12,CUST-102,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1275.37,4.0,Europe
+TXN-10023,2025-01-12,CUST-121,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,463.91,4.5,North America
+TXN-10024,2025-01-13,CUST-133,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,1124.79,4.0,North America
+TXN-10025,2025-01-13,CUST-112,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,863.7,5.0,Europe
+TXN-10026,2025-01-14,CUST-122,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,454.4,3.5,Latin America
+TXN-10027,2025-01-14,CUST-144,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,722.56,5.0,Asia Pacific
+TXN-10028,2025-01-15,CUST-125,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,345.57,4.5,Latin America
+TXN-10029,2025-01-15,CUST-149,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,4106.93,4.5,Asia Pacific
+TXN-10030,2025-01-16,CUST-127,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1196.84,3.0,Europe
+TXN-10031,2025-01-16,CUST-142,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,872.18,4.5,North America
+TXN-10032,2025-01-17,CUST-128,PROD-07,Vision AI Engine,AI Solutions,750.0,7,5250.0,2327.04,4.5,Europe
+TXN-10033,2025-01-17,CUST-116,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,1586.73,4.0,Europe
+TXN-10034,2025-01-18,CUST-115,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,2434.5,4.5,Europe
+TXN-10035,2025-01-18,CUST-147,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,1074.08,5.0,Europe
+TXN-10036,2025-01-19,CUST-144,PROD-09,AutoML Workbench,Analytics Tools,1100.0,2,2200.0,880.26,4.5,Europe
+TXN-10037,2025-01-19,CUST-103,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,759.64,4.5,North America
+TXN-10038,2025-01-20,CUST-137,PROD-09,AutoML Workbench,Analytics Tools,1100.0,2,2200.0,852.08,3.5,Europe
+TXN-10039,2025-01-20,CUST-107,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1000.53,4.5,North America
+TXN-10040,2025-01-21,CUST-121,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,1027.74,3.5,Asia Pacific
+TXN-10041,2025-01-21,CUST-109,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,3573.35,4.5,North America
+TXN-10042,2025-01-22,CUST-139,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,531.41,5.0,North America
+TXN-10043,2025-01-22,CUST-118,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1152.65,4.5,Europe
+TXN-10044,2025-01-23,CUST-104,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,4124.46,3.5,Europe
+TXN-10045,2025-01-23,CUST-125,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2979.92,4.0,Europe
+TXN-10046,2025-01-24,CUST-114,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4798.49,4.5,North America
+TXN-10047,2025-01-24,CUST-150,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,344.96,4.5,Europe
+TXN-10048,2025-01-25,CUST-109,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1609.94,5.0,North America
+TXN-10049,2025-01-25,CUST-126,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,176.26,5.0,Latin America
+TXN-10050,2025-01-26,CUST-102,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2467.43,4.5,Latin America
+TXN-10051,2025-01-26,CUST-120,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,2124.37,4.0,Europe
+TXN-10052,2025-01-27,CUST-128,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2448.06,4.0,North America
+TXN-10053,2025-01-27,CUST-147,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,259.4,3.5,Asia Pacific
+TXN-10054,2025-01-28,CUST-107,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,575.6,4.0,North America
+TXN-10055,2025-01-28,CUST-144,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,349.18,4.5,Europe
+TXN-10056,2025-01-29,CUST-108,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,10,4500.0,2004.71,4.5,North America
+TXN-10057,2025-01-29,CUST-147,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,641.35,4.5,Latin America
+TXN-10058,2025-01-30,CUST-135,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,3791.57,3.5,North America
+TXN-10059,2025-01-30,CUST-114,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2660.7,4.0,Europe
+TXN-10060,2025-01-31,CUST-117,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1750.56,4.0,Asia Pacific
+TXN-10061,2025-01-31,CUST-136,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,2296.61,4.0,Europe
+TXN-10062,2025-02-01,CUST-150,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,1084.18,5.0,North America
+TXN-10063,2025-02-01,CUST-140,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,703.21,3.0,Latin America
+TXN-10064,2025-02-02,CUST-104,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,2286.32,4.5,Europe
+TXN-10065,2025-02-02,CUST-102,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,3369.14,4.0,Europe
+TXN-10066,2025-02-03,CUST-106,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,6,2700.0,722.05,5.0,North America
+TXN-10067,2025-02-03,CUST-142,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,907.05,4.5,Europe
+TXN-10068,2025-02-04,CUST-104,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,242.86,4.0,Europe
+TXN-10069,2025-02-04,CUST-129,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,165.14,4.5,North America
+TXN-10070,2025-02-05,CUST-118,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2978.83,4.5,North America
+TXN-10071,2025-02-05,CUST-126,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,1526.45,5.0,Asia Pacific
+TXN-10072,2025-02-06,CUST-144,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,927.51,4.0,North America
+TXN-10073,2025-02-06,CUST-134,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1668.22,5.0,North America
+TXN-10074,2025-02-07,CUST-110,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,281.38,5.0,Europe
+TXN-10075,2025-02-07,CUST-136,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,1709.5,5.0,Asia Pacific
+TXN-10076,2025-02-08,CUST-114,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1776.94,4.5,North America
+TXN-10077,2025-02-08,CUST-131,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1432.29,4.5,Europe
+TXN-10078,2025-02-09,CUST-148,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1336.63,4.5,North America
+TXN-10079,2025-02-09,CUST-115,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,2504.8,5.0,North America
+TXN-10080,2025-02-10,CUST-108,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2549.81,4.5,North America
+TXN-10081,2025-02-11,CUST-114,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,2087.06,4.5,Asia Pacific
+TXN-10082,2025-02-11,CUST-123,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,330.84,4.5,North America
+TXN-10083,2025-02-12,CUST-140,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,1212.86,4.5,North America
+TXN-10084,2025-02-12,CUST-121,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,3894.81,5.0,Europe
+TXN-10085,2025-02-13,CUST-116,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,924.66,3.5,Asia Pacific
+TXN-10086,2025-02-13,CUST-145,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,3298.17,5.0,North America
+TXN-10087,2025-02-14,CUST-118,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,409.87,4.5,Europe
+TXN-10088,2025-02-14,CUST-147,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1638.38,5.0,North America
+TXN-10089,2025-02-15,CUST-124,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1950.67,4.5,Europe
+TXN-10090,2025-02-15,CUST-126,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,1628.41,4.0,Europe
+TXN-10091,2025-02-16,CUST-125,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,1956.12,5.0,Europe
+TXN-10092,2025-02-16,CUST-145,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,3061.01,4.0,North America
+TXN-10093,2025-02-17,CUST-141,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,1154.51,5.0,North America
+TXN-10094,2025-02-17,CUST-129,PROD-02,ML Predictor Pro,Analytics Tools,600.0,11,6600.0,3248.17,4.5,North America
+TXN-10095,2025-02-18,CUST-115,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,514.91,4.5,North America
+TXN-10096,2025-02-18,CUST-145,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,840.67,4.0,North America
+TXN-10097,2025-02-19,CUST-101,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1072.12,4.5,Asia Pacific
+TXN-10098,2025-02-19,CUST-125,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,456.29,4.0,Latin America
+TXN-10099,2025-02-20,CUST-107,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1734.99,3.0,Latin America
+TXN-10100,2025-02-20,CUST-109,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,4236.31,4.0,Asia Pacific
+TXN-10101,2025-02-21,CUST-124,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3012.64,3.0,Europe
+TXN-10102,2025-02-21,CUST-101,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1229.17,5.0,Asia Pacific
+TXN-10103,2025-02-22,CUST-144,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,939.02,5.0,North America
+TXN-10104,2025-02-22,CUST-108,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1529.73,4.0,Europe
+TXN-10105,2025-02-23,CUST-124,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,4261.8,4.5,Europe
+TXN-10106,2025-02-23,CUST-111,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,2169.03,4.0,Europe
+TXN-10107,2025-02-24,CUST-117,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1209.88,4.5,Asia Pacific
+TXN-10108,2025-02-24,CUST-108,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,308.49,5.0,North America
+TXN-10109,2025-02-25,CUST-135,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2493.93,5.0,North America
+TXN-10110,2025-02-25,CUST-135,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,3297.72,4.5,Latin America
+TXN-10111,2025-02-26,CUST-133,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,3267.76,5.0,North America
+TXN-10112,2025-02-26,CUST-105,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,2614.94,4.0,Europe
+TXN-10113,2025-02-27,CUST-142,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,443.28,5.0,Latin America
+TXN-10114,2025-02-27,CUST-139,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,511.31,3.0,Europe
+TXN-10115,2025-02-28,CUST-141,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,550.21,4.5,Europe
+TXN-10116,2025-02-28,CUST-128,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,270.7,4.5,North America
+TXN-10117,2025-03-01,CUST-107,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,1425.52,4.5,North America
+TXN-10118,2025-03-01,CUST-109,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1185.67,3.5,Asia Pacific
+TXN-10119,2025-03-02,CUST-108,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,9,10800.0,5121.72,5.0,Europe
+TXN-10120,2025-03-02,CUST-112,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,2399.91,4.0,Europe
+TXN-10121,2025-03-03,CUST-134,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,1804.64,4.5,North America
+TXN-10122,2025-03-03,CUST-133,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,3653.89,4.0,North America
+TXN-10123,2025-03-04,CUST-148,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1678.37,4.0,Latin America
+TXN-10124,2025-03-04,CUST-123,PROD-09,AutoML Workbench,Analytics Tools,1100.0,2,2200.0,1068.23,4.5,North America
+TXN-10125,2025-03-05,CUST-124,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,2736.99,4.5,Europe
+TXN-10126,2025-03-05,CUST-137,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2480.07,4.0,North America
+TXN-10127,2025-03-06,CUST-135,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,2586.39,4.0,Europe
+TXN-10128,2025-03-06,CUST-144,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,2549.57,4.5,Latin America
+TXN-10129,2025-03-07,CUST-140,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,1956.79,5.0,Europe
+TXN-10130,2025-03-07,CUST-122,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,381.14,5.0,North America
+TXN-10131,2025-03-08,CUST-127,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,2223.0,3.5,Europe
+TXN-10132,2025-03-08,CUST-135,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,993.62,4.0,Asia Pacific
+TXN-10133,2025-03-09,CUST-101,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,593.94,3.5,Europe
+TXN-10134,2025-03-09,CUST-135,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,5061.94,3.0,Asia Pacific
+TXN-10135,2025-03-10,CUST-137,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4023.15,4.5,Europe
+TXN-10136,2025-03-10,CUST-147,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,147.04,4.5,Asia Pacific
+TXN-10137,2025-03-11,CUST-114,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1776.01,4.0,Europe
+TXN-10138,2025-03-11,CUST-103,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,440.79,4.0,North America
+TXN-10139,2025-03-12,CUST-101,PROD-07,Vision AI Engine,AI Solutions,750.0,7,5250.0,1923.86,3.0,North America
+TXN-10140,2025-03-12,CUST-105,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2442.09,5.0,North America
+TXN-10141,2025-03-13,CUST-126,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,2213.81,5.0,Latin America
+TXN-10142,2025-03-13,CUST-114,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1131.38,3.5,Asia Pacific
+TXN-10143,2025-03-14,CUST-139,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,4333.28,4.0,Europe
+TXN-10144,2025-03-14,CUST-127,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,2865.79,5.0,North America
+TXN-10145,2025-03-15,CUST-109,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,2639.23,5.0,North America
+TXN-10146,2025-03-15,CUST-115,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,517.04,4.5,Asia Pacific
+TXN-10147,2025-03-16,CUST-115,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,3328.68,3.5,Europe
+TXN-10148,2025-03-16,CUST-126,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1289.57,3.0,North America
+TXN-10149,2025-03-17,CUST-142,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,4,3800.0,1117.93,4.5,Europe
+TXN-10150,2025-03-17,CUST-113,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,757.06,4.0,North America
+TXN-10151,2025-03-18,CUST-132,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,790.7,3.0,North America
+TXN-10152,2025-03-18,CUST-139,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,326.66,4.5,Europe
+TXN-10153,2025-03-19,CUST-149,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1161.13,3.0,North America
+TXN-10154,2025-03-19,CUST-132,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,2552.56,5.0,Latin America
+TXN-10155,2025-03-20,CUST-104,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,490.68,4.0,North America
+TXN-10156,2025-03-20,CUST-130,PROD-02,ML Predictor Pro,Analytics Tools,600.0,10,6000.0,1935.41,3.0,North America
+TXN-10157,2025-03-21,CUST-137,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,3361.52,4.5,North America
+TXN-10158,2025-03-21,CUST-123,PROD-07,Vision AI Engine,AI Solutions,750.0,7,5250.0,2382.9,4.0,Asia Pacific
+TXN-10159,2025-03-22,CUST-139,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,204.65,5.0,Europe
+TXN-10160,2025-03-23,CUST-145,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,2842.12,4.5,Europe
+TXN-10161,2025-03-23,CUST-115,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,492.09,4.0,North America
+TXN-10162,2025-03-24,CUST-143,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,969.75,4.5,North America
+TXN-10163,2025-03-24,CUST-129,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,931.44,4.0,Europe
+TXN-10164,2025-03-25,CUST-136,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,3342.63,5.0,Asia Pacific
+TXN-10165,2025-03-25,CUST-113,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1263.22,4.0,Asia Pacific
+TXN-10166,2025-03-26,CUST-132,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,1049.04,4.5,North America
+TXN-10167,2025-03-26,CUST-107,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,3222.76,3.5,Europe
+TXN-10168,2025-03-27,CUST-122,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,3268.3,4.5,Latin America
+TXN-10169,2025-03-27,CUST-128,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,635.98,5.0,North America
+TXN-10170,2025-03-28,CUST-102,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,6,2700.0,1358.36,5.0,Asia Pacific
+TXN-10171,2025-03-28,CUST-142,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,4071.8,4.0,North America
+TXN-10172,2025-03-29,CUST-145,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,3732.76,4.0,Latin America
+TXN-10173,2025-03-29,CUST-106,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1214.73,5.0,Asia Pacific
+TXN-10174,2025-03-30,CUST-128,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,438.73,5.0,Latin America
+TXN-10175,2025-03-30,CUST-128,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,807.28,3.5,Europe
+TXN-10176,2025-03-31,CUST-144,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1313.58,4.5,North America
+TXN-10177,2025-03-31,CUST-144,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,1285.03,4.0,Latin America
+TXN-10178,2025-04-01,CUST-120,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,7239.48,5.0,North America
+TXN-10179,2025-04-01,CUST-130,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,787.98,3.5,North America
+TXN-10180,2025-04-02,CUST-111,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1796.33,4.0,Asia Pacific
+TXN-10181,2025-04-02,CUST-128,PROD-08,Recommendation Agent,Analytics Tools,680.0,7,4760.0,2003.3,5.0,Asia Pacific
+TXN-10182,2025-04-03,CUST-125,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1573.74,3.5,Latin America
+TXN-10183,2025-04-03,CUST-139,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,2515.25,4.5,North America
+TXN-10184,2025-04-04,CUST-133,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,3531.56,4.5,Asia Pacific
+TXN-10185,2025-04-04,CUST-101,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,1495.58,4.0,Asia Pacific
+TXN-10186,2025-04-05,CUST-127,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,196.52,4.0,North America
+TXN-10187,2025-04-05,CUST-113,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1959.67,4.5,North America
+TXN-10188,2025-04-06,CUST-141,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,875.04,4.0,North America
+TXN-10189,2025-04-06,CUST-103,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1170.67,4.5,North America
+TXN-10190,2025-04-07,CUST-139,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,626.84,5.0,Latin America
+TXN-10191,2025-04-07,CUST-106,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,2239.06,5.0,Europe
+TXN-10192,2025-04-08,CUST-108,PROD-07,Vision AI Engine,AI Solutions,750.0,7,5250.0,2824.71,4.0,Asia Pacific
+TXN-10193,2025-04-08,CUST-127,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,1828.97,3.5,Latin America
+TXN-10194,2025-04-09,CUST-109,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,1222.18,4.0,North America
+TXN-10195,2025-04-09,CUST-137,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2290.53,4.0,Asia Pacific
+TXN-10196,2025-04-10,CUST-133,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,1492.51,4.5,Europe
+TXN-10197,2025-04-10,CUST-142,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1572.28,4.5,Asia Pacific
+TXN-10198,2025-04-11,CUST-144,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,3537.8,3.5,North America
+TXN-10199,2025-04-11,CUST-124,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,356.62,3.0,Latin America
+TXN-10200,2025-04-12,CUST-115,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,994.92,4.0,North America
+TXN-10201,2025-04-12,CUST-132,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,809.96,4.5,North America
+TXN-10202,2025-04-13,CUST-132,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,253.99,4.0,Asia Pacific
+TXN-10203,2025-04-13,CUST-124,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,839.05,4.5,North America
+TXN-10204,2025-04-14,CUST-141,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,4237.1,4.0,Europe
+TXN-10205,2025-04-14,CUST-149,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,539.55,5.0,Europe
+TXN-10206,2025-04-15,CUST-149,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1014.52,5.0,Asia Pacific
+TXN-10207,2025-04-15,CUST-112,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,379.07,4.0,North America
+TXN-10208,2025-04-16,CUST-139,PROD-05,Smart BI Assistant,AI Solutions,500.0,11,5500.0,1964.1,4.0,North America
+TXN-10209,2025-04-16,CUST-102,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1900.29,4.5,North America
+TXN-10210,2025-04-17,CUST-103,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,10,4500.0,1433.71,4.0,Europe
+TXN-10211,2025-04-17,CUST-149,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,1100.77,4.5,North America
+TXN-10212,2025-04-18,CUST-137,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,2438.0,5.0,North America
+TXN-10213,2025-04-18,CUST-149,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,1715.18,4.5,North America
+TXN-10214,2025-04-19,CUST-117,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3773.01,5.0,North America
+TXN-10215,2025-04-19,CUST-149,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,562.39,4.0,Europe
+TXN-10216,2025-04-20,CUST-102,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,2758.34,4.0,Asia Pacific
+TXN-10217,2025-04-20,CUST-102,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,1703.75,4.5,North America
+TXN-10218,2025-04-21,CUST-128,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,776.25,4.0,Europe
+TXN-10219,2025-04-21,CUST-123,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,630.83,4.5,Europe
+TXN-10220,2025-04-22,CUST-137,PROD-01,AI Analytics Suite,AI Solutions,850.0,6,5100.0,2288.52,4.0,Europe
+TXN-10221,2025-04-22,CUST-132,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1142.2,3.5,Asia Pacific
+TXN-10222,2025-04-23,CUST-133,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,1683.33,5.0,Europe
+TXN-10223,2025-04-23,CUST-101,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1477.4,4.0,Europe
+TXN-10224,2025-04-24,CUST-119,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1893.09,5.0,North America
+TXN-10225,2025-04-24,CUST-102,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,246.59,5.0,Europe
+TXN-10226,2025-04-25,CUST-144,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,2015.57,5.0,Europe
+TXN-10227,2025-04-25,CUST-126,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,2,2400.0,1147.93,4.5,North America
+TXN-10228,2025-04-26,CUST-132,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,903.79,4.5,North America
+TXN-10229,2025-04-26,CUST-106,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,3144.16,5.0,Latin America
+TXN-10230,2025-04-27,CUST-132,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,2286.14,4.0,Europe
+TXN-10231,2025-04-27,CUST-104,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,2312.32,4.5,Europe
+TXN-10232,2025-04-28,CUST-111,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,802.92,4.5,Latin America
+TXN-10233,2025-04-28,CUST-117,PROD-08,Recommendation Agent,Analytics Tools,680.0,7,4760.0,2014.13,4.5,Asia Pacific
+TXN-10234,2025-04-29,CUST-138,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2035.68,4.5,Europe
+TXN-10235,2025-04-29,CUST-124,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,3306.6,4.0,Asia Pacific
+TXN-10236,2025-04-30,CUST-105,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,731.93,4.5,Asia Pacific
+TXN-10237,2025-04-30,CUST-134,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1425.36,5.0,Europe
+TXN-10238,2025-05-01,CUST-106,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,4290.88,4.0,Europe
+TXN-10239,2025-05-01,CUST-122,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,804.58,5.0,North America
+TXN-10240,2025-05-02,CUST-111,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,773.09,4.5,Latin America
+TXN-10241,2025-05-03,CUST-148,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,922.43,5.0,Europe
+TXN-10242,2025-05-03,CUST-116,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,3573.21,4.5,North America
+TXN-10243,2025-05-04,CUST-133,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1009.95,5.0,Asia Pacific
+TXN-10244,2025-05-04,CUST-109,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,6,2700.0,1084.83,3.0,Europe
+TXN-10245,2025-05-05,CUST-106,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,474.38,5.0,North America
+TXN-10246,2025-05-05,CUST-116,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,1779.42,3.0,Europe
+TXN-10247,2025-05-06,CUST-129,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1108.42,5.0,Europe
+TXN-10248,2025-05-06,CUST-103,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,726.16,5.0,Asia Pacific
+TXN-10249,2025-05-07,CUST-120,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,2422.65,4.0,North America
+TXN-10250,2025-05-07,CUST-136,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,1908.04,4.0,Asia Pacific
+TXN-10251,2025-05-08,CUST-119,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,5137.32,5.0,Europe
+TXN-10252,2025-05-08,CUST-126,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,3565.69,4.0,North America
+TXN-10253,2025-05-09,CUST-103,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1809.68,5.0,Latin America
+TXN-10254,2025-05-09,CUST-119,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3604.23,3.5,Europe
+TXN-10255,2025-05-10,CUST-120,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1458.03,3.5,North America
+TXN-10256,2025-05-10,CUST-132,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,2101.58,5.0,Europe
+TXN-10257,2025-05-11,CUST-107,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1205.1,4.5,Asia Pacific
+TXN-10258,2025-05-11,CUST-141,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,854.2,5.0,North America
+TXN-10259,2025-05-12,CUST-133,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,259.11,4.0,North America
+TXN-10260,2025-05-12,CUST-140,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,4111.31,4.5,North America
+TXN-10261,2025-05-13,CUST-139,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,3986.81,4.5,North America
+TXN-10262,2025-05-13,CUST-118,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,1022.27,4.5,Asia Pacific
+TXN-10263,2025-05-14,CUST-140,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,1234.48,4.5,Europe
+TXN-10264,2025-05-14,CUST-101,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,2671.72,4.5,North America
+TXN-10265,2025-05-15,CUST-111,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2195.94,4.5,North America
+TXN-10266,2025-05-15,CUST-128,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,2117.55,4.0,North America
+TXN-10267,2025-05-16,CUST-125,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,1196.55,5.0,Latin America
+TXN-10268,2025-05-16,CUST-150,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,1345.7,4.0,North America
+TXN-10269,2025-05-17,CUST-123,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1048.41,4.5,Latin America
+TXN-10270,2025-05-17,CUST-131,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,4862.49,4.0,Europe
+TXN-10271,2025-05-18,CUST-130,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,2996.38,4.5,North America
+TXN-10272,2025-05-18,CUST-142,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,325.62,4.5,Asia Pacific
+TXN-10273,2025-05-19,CUST-135,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,270.7,4.0,Europe
+TXN-10274,2025-05-19,CUST-107,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1916.05,3.5,Asia Pacific
+TXN-10275,2025-05-20,CUST-116,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,542.8,3.5,Latin America
+TXN-10276,2025-05-20,CUST-126,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,223.69,4.5,North America
+TXN-10277,2025-05-21,CUST-148,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1775.75,5.0,North America
+TXN-10278,2025-05-21,CUST-149,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,1502.24,3.0,Asia Pacific
+TXN-10279,2025-05-22,CUST-102,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,2377.67,4.5,North America
+TXN-10280,2025-05-22,CUST-101,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3893.73,4.0,North America
+TXN-10281,2025-05-23,CUST-148,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1155.21,4.5,North America
+TXN-10282,2025-05-23,CUST-112,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2455.17,5.0,North America
+TXN-10283,2025-05-24,CUST-105,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,886.44,4.0,Asia Pacific
+TXN-10284,2025-05-24,CUST-137,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,1307.55,4.5,North America
+TXN-10285,2025-05-25,CUST-132,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,1119.9,3.0,Europe
+TXN-10286,2025-05-25,CUST-109,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,2811.83,3.5,Europe
+TXN-10287,2025-05-26,CUST-141,PROD-08,Recommendation Agent,Analytics Tools,680.0,1,680.0,256.75,4.0,Europe
+TXN-10288,2025-05-26,CUST-135,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,914.45,3.0,North America
+TXN-10289,2025-05-27,CUST-119,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,245.11,4.5,Asia Pacific
+TXN-10290,2025-05-27,CUST-148,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,719.5,4.5,North America
+TXN-10291,2025-05-28,CUST-116,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,500.01,4.5,Asia Pacific
+TXN-10292,2025-05-28,CUST-103,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,168.74,4.0,Asia Pacific
+TXN-10293,2025-05-29,CUST-120,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,2013.43,4.0,Europe
+TXN-10294,2025-05-29,CUST-124,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,1992.6,4.5,Europe
+TXN-10295,2025-05-30,CUST-133,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,6557.27,5.0,Europe
+TXN-10296,2025-05-30,CUST-124,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,1716.32,3.5,North America
+TXN-10297,2025-05-31,CUST-111,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,2252.31,5.0,Asia Pacific
+TXN-10298,2025-05-31,CUST-149,PROD-10,Demand Forecast Bot,Cloud Services,400.0,1,400.0,136.47,4.5,Asia Pacific
+TXN-10299,2025-06-01,CUST-108,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,351.04,4.5,North America
+TXN-10300,2025-06-01,CUST-136,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,601.06,4.5,Europe
+TXN-10301,2025-06-02,CUST-138,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,750.09,3.5,Latin America
+TXN-10302,2025-06-02,CUST-140,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1620.16,3.5,Latin America
+TXN-10303,2025-06-03,CUST-120,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,2966.64,4.5,Europe
+TXN-10304,2025-06-03,CUST-135,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,2020.11,4.0,Europe
+TXN-10305,2025-06-04,CUST-148,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,2079.3,5.0,North America
+TXN-10306,2025-06-04,CUST-125,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,1765.85,4.5,Latin America
+TXN-10307,2025-06-05,CUST-135,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,1525.99,3.5,North America
+TXN-10308,2025-06-05,CUST-125,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1363.52,4.5,Europe
+TXN-10309,2025-06-06,CUST-129,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1303.46,4.0,North America
+TXN-10310,2025-06-06,CUST-118,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,2087.04,4.5,North America
+TXN-10311,2025-06-07,CUST-146,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1485.1,4.5,Europe
+TXN-10312,2025-06-07,CUST-118,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,3349.33,5.0,Latin America
+TXN-10313,2025-06-08,CUST-102,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,2,2400.0,867.08,5.0,North America
+TXN-10314,2025-06-08,CUST-135,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,1061.99,4.5,Europe
+TXN-10315,2025-06-09,CUST-116,PROD-02,ML Predictor Pro,Analytics Tools,600.0,11,6600.0,3247.25,4.5,North America
+TXN-10316,2025-06-09,CUST-141,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,409.09,5.0,North America
+TXN-10317,2025-06-10,CUST-136,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1714.59,4.0,Europe
+TXN-10318,2025-06-10,CUST-133,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2097.36,3.0,Europe
+TXN-10319,2025-06-11,CUST-104,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,320.39,4.0,North America
+TXN-10320,2025-06-12,CUST-133,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,5917.62,4.0,North America
+TXN-10321,2025-06-12,CUST-114,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,492.37,4.5,North America
+TXN-10322,2025-06-13,CUST-121,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,826.7,4.5,North America
+TXN-10323,2025-06-13,CUST-148,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,1041.29,4.5,Latin America
+TXN-10324,2025-06-14,CUST-120,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,2551.67,3.0,Latin America
+TXN-10325,2025-06-14,CUST-108,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,987.75,4.5,North America
+TXN-10326,2025-06-15,CUST-107,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,5101.58,4.0,Europe
+TXN-10327,2025-06-15,CUST-103,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,964.2,4.5,Latin America
+TXN-10328,2025-06-16,CUST-117,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,1576.36,4.5,North America
+TXN-10329,2025-06-16,CUST-133,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,823.99,4.0,Asia Pacific
+TXN-10330,2025-06-17,CUST-148,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,1170.87,3.5,Latin America
+TXN-10331,2025-06-17,CUST-112,PROD-10,Demand Forecast Bot,Cloud Services,400.0,1,400.0,135.59,3.5,North America
+TXN-10332,2025-06-18,CUST-122,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1741.23,5.0,North America
+TXN-10333,2025-06-18,CUST-122,PROD-07,Vision AI Engine,AI Solutions,750.0,10,7500.0,3582.76,5.0,Latin America
+TXN-10334,2025-06-19,CUST-146,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1052.83,4.5,Europe
+TXN-10335,2025-06-19,CUST-130,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,1099.31,3.5,North America
+TXN-10336,2025-06-20,CUST-138,PROD-01,AI Analytics Suite,AI Solutions,850.0,6,5100.0,2053.6,4.5,North America
+TXN-10337,2025-06-20,CUST-138,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,3427.45,4.5,Europe
+TXN-10338,2025-06-21,CUST-145,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,953.78,5.0,Europe
+TXN-10339,2025-06-21,CUST-108,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,3836.54,3.5,Asia Pacific
+TXN-10340,2025-06-22,CUST-127,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1928.48,3.0,Latin America
+TXN-10341,2025-06-22,CUST-127,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,789.31,4.5,North America
+TXN-10342,2025-06-23,CUST-134,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,466.22,4.0,Europe
+TXN-10343,2025-06-23,CUST-121,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,315.78,4.0,Europe
+TXN-10344,2025-06-24,CUST-130,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2750.27,3.0,Europe
+TXN-10345,2025-06-24,CUST-133,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,9,10800.0,5061.9,4.5,North America
+TXN-10346,2025-06-25,CUST-128,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,813.61,5.0,Latin America
+TXN-10347,2025-06-25,CUST-147,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1196.0,5.0,Asia Pacific
+TXN-10348,2025-06-26,CUST-133,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,3321.82,4.5,Europe
+TXN-10349,2025-06-26,CUST-105,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1110.86,4.5,Europe
+TXN-10350,2025-06-27,CUST-148,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,9,10800.0,3818.91,3.5,North America
+TXN-10351,2025-06-27,CUST-119,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1052.05,4.5,Europe
+TXN-10352,2025-06-28,CUST-104,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,4131.04,4.0,Europe
+TXN-10353,2025-06-28,CUST-135,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,3878.25,4.5,Europe
+TXN-10354,2025-06-29,CUST-149,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,920.7,4.0,Latin America
+TXN-10355,2025-06-29,CUST-117,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2574.64,4.0,Europe
+TXN-10356,2025-06-30,CUST-144,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,2277.3,3.5,North America
+TXN-10357,2025-06-30,CUST-128,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,5875.4,4.0,Asia Pacific
+TXN-10358,2025-07-01,CUST-130,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,957.31,3.5,North America
+TXN-10359,2025-07-01,CUST-129,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,2804.0,4.0,North America
+TXN-10360,2025-07-02,CUST-146,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,672.55,5.0,North America
+TXN-10361,2025-07-02,CUST-106,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,3230.98,4.5,Europe
+TXN-10362,2025-07-03,CUST-135,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1881.33,4.5,Asia Pacific
+TXN-10363,2025-07-03,CUST-141,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3105.11,5.0,Europe
+TXN-10364,2025-07-04,CUST-137,PROD-01,AI Analytics Suite,AI Solutions,850.0,6,5100.0,1313.55,5.0,Asia Pacific
+TXN-10365,2025-07-04,CUST-124,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,6020.39,4.5,Europe
+TXN-10366,2025-07-05,CUST-129,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,1550.96,5.0,North America
+TXN-10367,2025-07-05,CUST-149,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1660.0,4.0,Asia Pacific
+TXN-10368,2025-07-06,CUST-146,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,4626.21,4.0,North America
+TXN-10369,2025-07-06,CUST-131,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,915.12,4.5,North America
+TXN-10370,2025-07-07,CUST-135,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1281.97,4.5,Europe
+TXN-10371,2025-07-07,CUST-133,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,5583.68,4.5,North America
+TXN-10372,2025-07-08,CUST-121,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1683.47,4.0,North America
+TXN-10373,2025-07-08,CUST-132,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,413.93,3.5,Europe
+TXN-10374,2025-07-09,CUST-123,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,5941.22,4.5,Europe
+TXN-10375,2025-07-09,CUST-133,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,2482.43,3.5,Europe
+TXN-10376,2025-07-10,CUST-103,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,3974.24,4.5,Latin America
+TXN-10377,2025-07-10,CUST-118,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1582.82,4.5,Europe
+TXN-10378,2025-07-11,CUST-125,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,4,3800.0,1933.41,4.5,Asia Pacific
+TXN-10379,2025-07-11,CUST-142,PROD-10,Demand Forecast Bot,Cloud Services,400.0,2,800.0,243.02,5.0,North America
+TXN-10380,2025-07-12,CUST-131,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,245.0,5.0,Europe
+TXN-10381,2025-07-12,CUST-103,PROD-05,Smart BI Assistant,AI Solutions,500.0,11,5500.0,2286.97,4.5,Asia Pacific
+TXN-10382,2025-07-13,CUST-140,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1162.24,4.5,Europe
+TXN-10383,2025-07-13,CUST-146,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1302.82,4.5,Asia Pacific
+TXN-10384,2025-07-14,CUST-124,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,693.04,4.0,North America
+TXN-10385,2025-07-14,CUST-150,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,1616.67,3.0,North America
+TXN-10386,2025-07-15,CUST-132,PROD-02,ML Predictor Pro,Analytics Tools,600.0,11,6600.0,2263.38,4.0,Europe
+TXN-10387,2025-07-15,CUST-147,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,1482.86,4.5,North America
+TXN-10388,2025-07-16,CUST-122,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,3068.55,4.5,Asia Pacific
+TXN-10389,2025-07-16,CUST-123,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,3004.54,5.0,North America
+TXN-10390,2025-07-17,CUST-102,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,2322.77,4.0,Latin America
+TXN-10391,2025-07-17,CUST-127,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,2210.95,3.5,Latin America
+TXN-10392,2025-07-18,CUST-142,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4155.89,5.0,North America
+TXN-10393,2025-07-18,CUST-102,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1517.49,3.5,North America
+TXN-10394,2025-07-19,CUST-126,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,2249.32,4.5,Asia Pacific
+TXN-10395,2025-07-19,CUST-117,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,3130.96,4.5,Latin America
+TXN-10396,2025-07-20,CUST-140,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1014.59,4.5,Europe
+TXN-10397,2025-07-20,CUST-133,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,1356.62,3.5,North America
+TXN-10398,2025-07-21,CUST-109,PROD-09,AutoML Workbench,Analytics Tools,1100.0,2,2200.0,584.21,3.5,Europe
+TXN-10399,2025-07-21,CUST-143,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,829.32,3.5,Europe
+TXN-10400,2025-07-22,CUST-148,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1109.76,4.5,North America
+TXN-10401,2025-07-23,CUST-139,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2035.1,4.5,Asia Pacific
+TXN-10402,2025-07-23,CUST-129,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1423.55,4.0,North America
+TXN-10403,2025-07-24,CUST-142,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2618.33,4.5,North America
+TXN-10404,2025-07-24,CUST-126,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,1905.17,5.0,North America
+TXN-10405,2025-07-25,CUST-135,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,211.41,3.0,North America
+TXN-10406,2025-07-25,CUST-150,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,557.04,4.5,North America
+TXN-10407,2025-07-26,CUST-125,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,405.76,4.5,Europe
+TXN-10408,2025-07-26,CUST-124,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,1964.77,4.0,North America
+TXN-10409,2025-07-27,CUST-113,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1258.98,4.0,North America
+TXN-10410,2025-07-27,CUST-107,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,2905.7,4.5,North America
+TXN-10411,2025-07-28,CUST-136,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,4510.77,5.0,Latin America
+TXN-10412,2025-07-28,CUST-145,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,419.68,5.0,Europe
+TXN-10413,2025-07-29,CUST-120,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,507.25,4.5,Europe
+TXN-10414,2025-07-29,CUST-101,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,724.35,4.5,Europe
+TXN-10415,2025-07-30,CUST-108,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1813.34,4.0,Latin America
+TXN-10416,2025-07-30,CUST-146,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1770.08,4.5,North America
+TXN-10417,2025-07-31,CUST-116,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,9,10800.0,4875.59,4.5,Europe
+TXN-10418,2025-07-31,CUST-114,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1846.68,4.0,Asia Pacific
+TXN-10419,2025-08-01,CUST-112,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1114.91,4.5,Europe
+TXN-10420,2025-08-01,CUST-123,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2234.23,4.5,North America
+TXN-10421,2025-08-02,CUST-115,PROD-08,Recommendation Agent,Analytics Tools,680.0,1,680.0,323.19,4.0,Europe
+TXN-10422,2025-08-02,CUST-128,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,336.49,5.0,North America
+TXN-10423,2025-08-03,CUST-134,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,3200.22,3.0,Europe
+TXN-10424,2025-08-03,CUST-102,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,299.61,4.0,Asia Pacific
+TXN-10425,2025-08-04,CUST-132,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,2581.32,3.5,North America
+TXN-10426,2025-08-04,CUST-123,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,6583.74,5.0,Asia Pacific
+TXN-10427,2025-08-05,CUST-122,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,2675.48,4.5,North America
+TXN-10428,2025-08-05,CUST-125,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,2697.31,4.0,Asia Pacific
+TXN-10429,2025-08-06,CUST-122,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,911.43,4.5,Europe
+TXN-10430,2025-08-06,CUST-122,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,324.72,4.0,North America
+TXN-10431,2025-08-07,CUST-149,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,312.39,5.0,North America
+TXN-10432,2025-08-07,CUST-142,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,504.67,4.5,Latin America
+TXN-10433,2025-08-08,CUST-106,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,3393.83,4.5,North America
+TXN-10434,2025-08-08,CUST-115,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,3045.02,5.0,North America
+TXN-10435,2025-08-09,CUST-143,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,2,2400.0,904.36,4.0,North America
+TXN-10436,2025-08-09,CUST-137,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,389.35,3.5,Europe
+TXN-10437,2025-08-10,CUST-133,PROD-02,ML Predictor Pro,Analytics Tools,600.0,10,6000.0,2215.7,4.5,Europe
+TXN-10438,2025-08-10,CUST-108,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,658.57,5.0,North America
+TXN-10439,2025-08-11,CUST-144,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,1713.8,4.0,North America
+TXN-10440,2025-08-11,CUST-144,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,537.08,3.5,North America
+TXN-10441,2025-08-12,CUST-105,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,2181.7,4.0,North America
+TXN-10442,2025-08-12,CUST-139,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,1513.07,4.5,Europe
+TXN-10443,2025-08-13,CUST-104,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,536.43,4.0,Asia Pacific
+TXN-10444,2025-08-13,CUST-106,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,3675.82,4.5,North America
+TXN-10445,2025-08-14,CUST-145,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,387.98,5.0,North America
+TXN-10446,2025-08-14,CUST-132,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,557.11,4.5,North America
+TXN-10447,2025-08-15,CUST-130,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,954.36,4.0,Latin America
+TXN-10448,2025-08-15,CUST-147,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1285.02,4.5,Latin America
+TXN-10449,2025-08-16,CUST-135,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1628.1,3.5,Asia Pacific
+TXN-10450,2025-08-16,CUST-140,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,999.43,5.0,North America
+TXN-10451,2025-08-17,CUST-116,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,1289.14,4.5,North America
+TXN-10452,2025-08-17,CUST-113,PROD-05,Smart BI Assistant,AI Solutions,500.0,11,5500.0,2404.02,4.0,North America
+TXN-10453,2025-08-18,CUST-150,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3778.69,4.5,North America
+TXN-10454,2025-08-18,CUST-142,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,594.4,4.5,Europe
+TXN-10455,2025-08-19,CUST-130,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,519.25,4.5,Asia Pacific
+TXN-10456,2025-08-19,CUST-119,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,647.41,3.5,Asia Pacific
+TXN-10457,2025-08-20,CUST-117,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,910.75,5.0,Asia Pacific
+TXN-10458,2025-08-20,CUST-119,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2716.85,5.0,North America
+TXN-10459,2025-08-21,CUST-128,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,1256.61,4.5,Europe
+TXN-10460,2025-08-21,CUST-126,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,2944.42,5.0,North America
+TXN-10461,2025-08-22,CUST-137,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,825.29,4.0,North America
+TXN-10462,2025-08-22,CUST-126,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,901.21,4.5,Asia Pacific
+TXN-10463,2025-08-23,CUST-123,PROD-01,AI Analytics Suite,AI Solutions,850.0,6,5100.0,2189.43,4.5,North America
+TXN-10464,2025-08-23,CUST-109,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1835.38,4.5,Europe
+TXN-10465,2025-08-24,CUST-112,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,2905.07,4.5,North America
+TXN-10466,2025-08-24,CUST-101,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,1690.63,4.0,Europe
+TXN-10467,2025-08-25,CUST-101,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1209.51,3.5,Asia Pacific
+TXN-10468,2025-08-25,CUST-147,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1813.63,4.0,North America
+TXN-10469,2025-08-26,CUST-134,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,5698.62,4.0,Asia Pacific
+TXN-10470,2025-08-26,CUST-132,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,5097.49,4.5,North America
+TXN-10471,2025-08-27,CUST-148,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1243.16,4.0,Europe
+TXN-10472,2025-08-27,CUST-125,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1705.1,3.5,Asia Pacific
+TXN-10473,2025-08-28,CUST-140,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4373.25,4.5,Europe
+TXN-10474,2025-08-28,CUST-145,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,204.32,4.5,Latin America
+TXN-10475,2025-08-29,CUST-101,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,558.67,5.0,North America
+TXN-10476,2025-08-29,CUST-116,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,1145.78,4.5,Europe
+TXN-10477,2025-08-30,CUST-139,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1359.61,4.0,Europe
+TXN-10478,2025-08-30,CUST-105,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1075.57,5.0,Latin America
+TXN-10479,2025-08-31,CUST-122,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,3696.73,4.5,North America
+TXN-10480,2025-09-01,CUST-129,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,402.96,3.5,Asia Pacific
+TXN-10481,2025-09-01,CUST-103,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1478.84,4.5,Europe
+TXN-10482,2025-09-02,CUST-112,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,803.1,5.0,North America
+TXN-10483,2025-09-02,CUST-126,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,459.84,4.0,Europe
+TXN-10484,2025-09-03,CUST-116,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,2032.82,4.0,North America
+TXN-10485,2025-09-03,CUST-137,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,2281.03,3.5,Europe
+TXN-10486,2025-09-04,CUST-122,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,4,3800.0,1066.16,4.0,Asia Pacific
+TXN-10487,2025-09-04,CUST-129,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1060.48,4.5,Europe
+TXN-10488,2025-09-05,CUST-114,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,2565.51,4.5,Europe
+TXN-10489,2025-09-05,CUST-128,PROD-02,ML Predictor Pro,Analytics Tools,600.0,11,6600.0,1833.4,3.5,Europe
+TXN-10490,2025-09-06,CUST-105,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,806.68,5.0,North America
+TXN-10491,2025-09-06,CUST-147,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,6344.81,5.0,North America
+TXN-10492,2025-09-07,CUST-149,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,969.53,4.5,Europe
+TXN-10493,2025-09-07,CUST-130,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1113.89,5.0,North America
+TXN-10494,2025-09-08,CUST-146,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,684.58,3.5,North America
+TXN-10495,2025-09-08,CUST-105,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3493.42,4.5,Europe
+TXN-10496,2025-09-09,CUST-112,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,2426.08,4.5,North America
+TXN-10497,2025-09-09,CUST-116,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,10,4500.0,1920.76,5.0,North America
+TXN-10498,2025-09-10,CUST-126,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,4166.28,5.0,Europe
+TXN-10499,2025-09-10,CUST-126,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2647.84,4.0,North America
+TXN-10500,2025-09-11,CUST-148,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1161.38,5.0,Latin America
+TXN-10501,2025-09-11,CUST-121,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,2042.55,3.5,Asia Pacific
+TXN-10502,2025-09-12,CUST-139,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,832.25,5.0,Asia Pacific
+TXN-10503,2025-09-12,CUST-136,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,774.45,5.0,North America
+TXN-10504,2025-09-13,CUST-133,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1847.67,4.0,Asia Pacific
+TXN-10505,2025-09-13,CUST-130,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,3136.25,4.5,Asia Pacific
+TXN-10506,2025-09-14,CUST-137,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,2172.76,3.0,Asia Pacific
+TXN-10507,2025-09-14,CUST-123,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,2466.3,4.5,North America
+TXN-10508,2025-09-15,CUST-110,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,377.19,4.5,Europe
+TXN-10509,2025-09-15,CUST-105,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,3146.8,4.5,Asia Pacific
+TXN-10510,2025-09-16,CUST-136,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1102.51,5.0,Europe
+TXN-10511,2025-09-16,CUST-134,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,6,2700.0,725.65,4.5,Europe
+TXN-10512,2025-09-17,CUST-131,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,659.06,4.5,Europe
+TXN-10513,2025-09-17,CUST-110,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,1315.5,5.0,Europe
+TXN-10514,2025-09-18,CUST-119,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,583.23,5.0,North America
+TXN-10515,2025-09-18,CUST-132,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,1152.25,3.0,Europe
+TXN-10516,2025-09-19,CUST-101,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,1358.01,5.0,North America
+TXN-10517,2025-09-19,CUST-105,PROD-10,Demand Forecast Bot,Cloud Services,400.0,2,800.0,428.36,3.5,Europe
+TXN-10518,2025-09-20,CUST-145,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3751.58,5.0,North America
+TXN-10519,2025-09-20,CUST-104,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2359.33,4.0,Europe
+TXN-10520,2025-09-21,CUST-116,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1788.82,3.5,North America
+TXN-10521,2025-09-21,CUST-124,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,503.32,4.5,Europe
+TXN-10522,2025-09-22,CUST-116,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,495.93,4.5,Asia Pacific
+TXN-10523,2025-09-22,CUST-102,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,2062.06,4.0,North America
+TXN-10524,2025-09-23,CUST-149,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2610.21,3.5,North America
+TXN-10525,2025-09-23,CUST-128,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,2009.67,4.5,North America
+TXN-10526,2025-09-24,CUST-132,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,2333.31,5.0,Asia Pacific
+TXN-10527,2025-09-24,CUST-127,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2438.61,4.0,Europe
+TXN-10528,2025-09-25,CUST-120,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,432.86,4.0,Europe
+TXN-10529,2025-09-25,CUST-124,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1626.0,4.5,North America
+TXN-10530,2025-09-26,CUST-112,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1262.95,3.0,Europe
+TXN-10531,2025-09-26,CUST-150,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,765.6,5.0,Asia Pacific
+TXN-10532,2025-09-27,CUST-135,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2222.1,5.0,Asia Pacific
+TXN-10533,2025-09-27,CUST-133,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,3455.36,4.5,Europe
+TXN-10534,2025-09-28,CUST-133,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2145.18,4.0,North America
+TXN-10535,2025-09-28,CUST-143,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,622.32,5.0,North America
+TXN-10536,2025-09-29,CUST-137,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,3464.53,4.5,North America
+TXN-10537,2025-09-29,CUST-112,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1823.31,5.0,North America
+TXN-10538,2025-09-30,CUST-103,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1448.64,4.5,North America
+TXN-10539,2025-09-30,CUST-101,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,834.24,5.0,North America
+TXN-10540,2025-10-01,CUST-133,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,778.84,4.5,North America
+TXN-10541,2025-10-01,CUST-140,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2631.34,4.5,Latin America
+TXN-10542,2025-10-02,CUST-110,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,10,4500.0,1702.26,5.0,Europe
+TXN-10543,2025-10-02,CUST-143,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,5052.48,4.5,Asia Pacific
+TXN-10544,2025-10-03,CUST-144,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2646.54,4.5,Asia Pacific
+TXN-10545,2025-10-03,CUST-129,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3971.01,4.0,North America
+TXN-10546,2025-10-04,CUST-113,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,673.0,4.5,Asia Pacific
+TXN-10547,2025-10-04,CUST-112,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,2238.4,4.5,North America
+TXN-10548,2025-10-05,CUST-131,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,962.49,4.0,Europe
+TXN-10549,2025-10-05,CUST-146,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,172.43,3.5,North America
+TXN-10550,2025-10-06,CUST-102,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1231.56,4.5,Latin America
+TXN-10551,2025-10-06,CUST-150,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,3369.11,5.0,North America
+TXN-10552,2025-10-07,CUST-135,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,801.58,4.5,North America
+TXN-10553,2025-10-07,CUST-123,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,2,2400.0,640.45,4.0,Latin America
+TXN-10554,2025-10-08,CUST-117,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3377.29,4.5,North America
+TXN-10555,2025-10-08,CUST-126,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,1056.27,3.5,Europe
+TXN-10556,2025-10-09,CUST-108,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,380.18,4.5,Asia Pacific
+TXN-10557,2025-10-09,CUST-129,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2588.39,4.0,Asia Pacific
+TXN-10558,2025-10-10,CUST-126,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1789.93,4.0,Latin America
+TXN-10559,2025-10-10,CUST-110,PROD-01,AI Analytics Suite,AI Solutions,850.0,6,5100.0,2277.42,4.0,Latin America
+TXN-10560,2025-10-11,CUST-126,PROD-09,AutoML Workbench,Analytics Tools,1100.0,2,2200.0,721.76,4.0,North America
+TXN-10561,2025-10-12,CUST-134,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1215.22,3.5,Asia Pacific
+TXN-10562,2025-10-12,CUST-141,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,536.65,4.0,Europe
+TXN-10563,2025-10-13,CUST-107,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,1659.42,4.5,Europe
+TXN-10564,2025-10-13,CUST-104,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,3698.9,4.5,North America
+TXN-10565,2025-10-14,CUST-150,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,763.75,4.0,Europe
+TXN-10566,2025-10-14,CUST-145,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,2315.28,5.0,Latin America
+TXN-10567,2025-10-15,CUST-111,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1680.41,3.5,Latin America
+TXN-10568,2025-10-15,CUST-129,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2186.59,4.5,Europe
+TXN-10569,2025-10-16,CUST-136,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,537.95,3.5,North America
+TXN-10570,2025-10-16,CUST-125,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1515.4,3.5,North America
+TXN-10571,2025-10-17,CUST-121,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1234.59,4.5,Asia Pacific
+TXN-10572,2025-10-17,CUST-136,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,1624.94,4.5,Asia Pacific
+TXN-10573,2025-10-18,CUST-110,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1375.31,5.0,Europe
+TXN-10574,2025-10-18,CUST-137,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1314.13,4.5,North America
+TXN-10575,2025-10-19,CUST-109,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,4284.79,5.0,Europe
+TXN-10576,2025-10-19,CUST-124,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,338.33,3.0,Europe
+TXN-10577,2025-10-20,CUST-135,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2742.12,3.5,Latin America
+TXN-10578,2025-10-20,CUST-149,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,1095.27,3.0,Europe
+TXN-10579,2025-10-21,CUST-135,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1163.95,4.0,North America
+TXN-10580,2025-10-21,CUST-148,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,995.86,4.5,Europe
+TXN-10581,2025-10-22,CUST-136,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,4581.47,4.5,North America
+TXN-10582,2025-10-22,CUST-118,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1148.48,3.0,Latin America
+TXN-10583,2025-10-23,CUST-149,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,320.69,5.0,North America
+TXN-10584,2025-10-23,CUST-139,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,4418.59,5.0,Europe
+TXN-10585,2025-10-24,CUST-132,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,2635.06,4.0,North America
+TXN-10586,2025-10-24,CUST-124,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,2077.23,3.5,Europe
+TXN-10587,2025-10-25,CUST-123,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,982.7,4.0,Europe
+TXN-10588,2025-10-25,CUST-132,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,1103.46,3.5,Asia Pacific
+TXN-10589,2025-10-26,CUST-137,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,249.61,3.5,North America
+TXN-10590,2025-10-26,CUST-112,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1363.2,4.5,North America
+TXN-10591,2025-10-27,CUST-149,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,2305.03,4.0,North America
+TXN-10592,2025-10-27,CUST-113,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,4746.48,4.0,Europe
+TXN-10593,2025-10-28,CUST-123,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,924.29,5.0,North America
+TXN-10594,2025-10-28,CUST-125,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,250.69,4.5,Europe
+TXN-10595,2025-10-29,CUST-135,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,1218.31,5.0,Asia Pacific
+TXN-10596,2025-10-29,CUST-141,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,569.41,3.5,Asia Pacific
+TXN-10597,2025-10-30,CUST-130,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,343.59,4.0,Europe
+TXN-10598,2025-10-30,CUST-117,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1429.44,4.5,Europe
+TXN-10599,2025-10-31,CUST-149,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,2027.15,3.5,North America
+TXN-10600,2025-10-31,CUST-120,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1627.54,3.0,Europe
+TXN-10601,2025-11-01,CUST-148,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,2339.08,4.5,Asia Pacific
+TXN-10602,2025-11-01,CUST-125,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1869.39,4.5,North America
+TXN-10603,2025-11-02,CUST-122,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,1291.46,4.5,Europe
+TXN-10604,2025-11-02,CUST-113,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1369.27,4.5,Asia Pacific
+TXN-10605,2025-11-03,CUST-119,PROD-08,Recommendation Agent,Analytics Tools,680.0,1,680.0,203.72,4.5,Asia Pacific
+TXN-10606,2025-11-03,CUST-149,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,2205.26,3.0,North America
+TXN-10607,2025-11-04,CUST-136,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2770.45,4.0,Europe
+TXN-10608,2025-11-04,CUST-112,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,3616.85,4.0,North America
+TXN-10609,2025-11-05,CUST-141,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,546.05,3.5,North America
+TXN-10610,2025-11-05,CUST-119,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,537.14,5.0,Latin America
+TXN-10611,2025-11-06,CUST-112,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,2613.13,4.5,Asia Pacific
+TXN-10612,2025-11-06,CUST-109,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,1956.4,4.5,Asia Pacific
+TXN-10613,2025-11-07,CUST-107,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,719.34,4.0,North America
+TXN-10614,2025-11-07,CUST-128,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1758.67,4.0,Asia Pacific
+TXN-10615,2025-11-08,CUST-114,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,580.43,4.0,Europe
+TXN-10616,2025-11-08,CUST-131,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,2725.55,3.5,North America
+TXN-10617,2025-11-09,CUST-119,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,844.81,4.0,Europe
+TXN-10618,2025-11-09,CUST-147,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1346.01,5.0,North America
+TXN-10619,2025-11-10,CUST-116,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1379.61,4.5,Asia Pacific
+TXN-10620,2025-11-10,CUST-105,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,1902.23,4.5,Europe
+TXN-10621,2025-11-11,CUST-135,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,275.06,4.5,North America
+TXN-10622,2025-11-11,CUST-112,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,1777.68,5.0,North America
+TXN-10623,2025-11-12,CUST-125,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1322.32,3.5,North America
+TXN-10624,2025-11-12,CUST-121,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,432.35,4.0,North America
+TXN-10625,2025-11-13,CUST-136,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,473.8,4.0,Europe
+TXN-10626,2025-11-13,CUST-123,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,968.33,5.0,Asia Pacific
+TXN-10627,2025-11-14,CUST-116,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,195.7,5.0,North America
+TXN-10628,2025-11-14,CUST-139,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1876.79,4.0,North America
+TXN-10629,2025-11-15,CUST-145,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1648.82,5.0,Europe
+TXN-10630,2025-11-15,CUST-142,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1666.21,5.0,Asia Pacific
+TXN-10631,2025-11-16,CUST-139,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1731.54,4.0,North America
+TXN-10632,2025-11-16,CUST-114,PROD-02,ML Predictor Pro,Analytics Tools,600.0,11,6600.0,3028.93,4.0,North America
+TXN-10633,2025-11-17,CUST-131,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,2026.83,4.5,Europe
+TXN-10634,2025-11-17,CUST-105,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,452.26,5.0,North America
+TXN-10635,2025-11-18,CUST-135,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,2720.23,4.0,North America
+TXN-10636,2025-11-18,CUST-123,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1524.24,5.0,Asia Pacific
+TXN-10637,2025-11-19,CUST-129,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,2453.56,4.0,Europe
+TXN-10638,2025-11-19,CUST-143,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,988.71,4.5,Europe
+TXN-10639,2025-11-20,CUST-111,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,3605.81,4.5,Asia Pacific
+TXN-10640,2025-11-21,CUST-118,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,384.23,4.5,Europe
+TXN-10641,2025-11-21,CUST-147,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1424.58,5.0,North America
+TXN-10642,2025-11-22,CUST-112,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,2352.58,5.0,North America
+TXN-10643,2025-11-22,CUST-109,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,1545.11,5.0,North America
+TXN-10644,2025-11-23,CUST-110,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,175.71,3.5,North America
+TXN-10645,2025-11-23,CUST-144,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,2800.65,4.5,Europe
+TXN-10646,2025-11-24,CUST-117,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,1696.6,3.5,Asia Pacific
+TXN-10647,2025-11-24,CUST-138,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1764.28,4.5,Latin America
+TXN-10648,2025-11-25,CUST-107,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4927.67,4.5,Europe
+TXN-10649,2025-11-25,CUST-146,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1400.83,4.5,North America
+TXN-10650,2025-11-26,CUST-113,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,2675.57,4.5,North America
+TXN-10651,2025-11-26,CUST-140,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2141.95,5.0,Asia Pacific
+TXN-10652,2025-11-27,CUST-142,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,1034.52,3.5,Europe
+TXN-10653,2025-11-27,CUST-109,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,585.39,4.5,Europe
+TXN-10654,2025-11-28,CUST-150,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,365.46,4.0,Asia Pacific
+TXN-10655,2025-11-28,CUST-127,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,470.73,3.5,Asia Pacific
+TXN-10656,2025-11-29,CUST-102,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,5018.44,4.0,Asia Pacific
+TXN-10657,2025-11-29,CUST-105,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1447.14,5.0,North America
+TXN-10658,2025-11-30,CUST-129,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1643.72,5.0,Asia Pacific
+TXN-10659,2025-11-30,CUST-137,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,782.36,5.0,Asia Pacific
+TXN-10660,2025-12-01,CUST-138,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,796.93,5.0,North America
+TXN-10661,2025-12-01,CUST-119,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,3152.47,4.0,Europe
+TXN-10662,2025-12-02,CUST-108,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,4969.43,4.0,North America
+TXN-10663,2025-12-02,CUST-148,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,4207.02,4.5,Latin America
+TXN-10664,2025-12-03,CUST-145,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1787.1,4.5,North America
+TXN-10665,2025-12-03,CUST-101,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1810.79,4.5,Europe
+TXN-10666,2025-12-04,CUST-122,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1186.59,4.0,North America
+TXN-10667,2025-12-04,CUST-117,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,2660.67,4.5,Asia Pacific
+TXN-10668,2025-12-05,CUST-107,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1988.87,4.5,North America
+TXN-10669,2025-12-05,CUST-125,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1445.21,4.0,North America
+TXN-10670,2025-12-06,CUST-145,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,610.07,4.5,Europe
+TXN-10671,2025-12-06,CUST-104,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,3038.95,4.5,Latin America
+TXN-10672,2025-12-07,CUST-136,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,617.72,4.5,North America
+TXN-10673,2025-12-07,CUST-106,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2105.42,4.0,North America
+TXN-10674,2025-12-08,CUST-131,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,122.72,4.5,Asia Pacific
+TXN-10675,2025-12-08,CUST-119,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1758.47,3.0,Europe
+TXN-10676,2025-12-09,CUST-144,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,2357.09,4.0,Latin America
+TXN-10677,2025-12-09,CUST-139,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,2108.16,5.0,North America
+TXN-10678,2025-12-10,CUST-127,PROD-05,Smart BI Assistant,AI Solutions,500.0,11,5500.0,1710.73,4.5,Europe
+TXN-10679,2025-12-10,CUST-110,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,918.31,4.0,North America
+TXN-10680,2025-12-11,CUST-126,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1693.58,4.5,North America
+TXN-10681,2025-12-11,CUST-119,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,9,10800.0,3961.67,4.5,Europe
+TXN-10682,2025-12-12,CUST-139,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1815.12,5.0,Europe
+TXN-10683,2025-12-12,CUST-103,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,9,10800.0,5836.53,4.5,Asia Pacific
+TXN-10684,2025-12-13,CUST-145,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1295.85,4.5,North America
+TXN-10685,2025-12-13,CUST-113,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,2200.25,4.5,Europe
+TXN-10686,2025-12-14,CUST-150,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,925.59,3.5,Europe
+TXN-10687,2025-12-14,CUST-128,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2175.84,4.0,Latin America
+TXN-10688,2025-12-15,CUST-120,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,834.95,4.5,North America
+TXN-10689,2025-12-15,CUST-128,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,1710.19,4.5,North America
+TXN-10690,2025-12-16,CUST-108,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1317.97,4.5,North America
+TXN-10691,2025-12-16,CUST-141,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,2556.43,4.0,Europe
+TXN-10692,2025-12-17,CUST-139,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,2632.25,3.0,North America
+TXN-10693,2025-12-17,CUST-101,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,1106.12,4.5,Latin America
+TXN-10694,2025-12-18,CUST-103,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,337.4,4.0,North America
+TXN-10695,2025-12-18,CUST-113,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,1031.02,4.5,Asia Pacific
+TXN-10696,2025-12-19,CUST-128,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,2024.19,3.0,North America
+TXN-10697,2025-12-19,CUST-149,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,433.05,4.5,Europe
+TXN-10698,2025-12-20,CUST-125,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1654.4,5.0,Latin America
+TXN-10699,2025-12-20,CUST-133,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2800.93,4.0,North America
+TXN-10700,2025-12-21,CUST-138,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2458.6,4.5,Latin America
+TXN-10701,2025-12-21,CUST-106,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,4,3800.0,1757.99,3.5,Europe
+TXN-10702,2025-12-22,CUST-144,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,505.02,4.5,Latin America
+TXN-10703,2025-12-22,CUST-145,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,472.95,4.5,Europe
+TXN-10704,2025-12-23,CUST-132,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,269.1,4.5,North America
+TXN-10705,2025-12-23,CUST-145,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1877.18,4.5,North America
+TXN-10706,2025-12-24,CUST-147,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,1358.61,5.0,North America
+TXN-10707,2025-12-24,CUST-121,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2653.28,4.0,North America
+TXN-10708,2025-12-25,CUST-116,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,4,3800.0,1831.0,3.0,North America
+TXN-10709,2025-12-25,CUST-121,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,559.61,5.0,North America
+TXN-10710,2025-12-26,CUST-111,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,202.45,4.5,Europe
+TXN-10711,2025-12-26,CUST-137,PROD-10,Demand Forecast Bot,Cloud Services,400.0,2,800.0,383.96,5.0,Asia Pacific
+TXN-10712,2025-12-27,CUST-136,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,4081.1,4.5,North America
+TXN-10713,2025-12-27,CUST-135,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,581.51,5.0,North America
+TXN-10714,2025-12-28,CUST-119,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1521.68,4.5,Europe
+TXN-10715,2025-12-28,CUST-120,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1546.34,4.5,North America
+TXN-10716,2025-12-29,CUST-118,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,3891.86,5.0,North America
+TXN-10717,2025-12-29,CUST-147,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1051.55,4.5,North America
+TXN-10718,2025-12-30,CUST-141,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,2762.25,4.0,Latin America
+TXN-10719,2025-12-30,CUST-149,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,654.21,4.0,Asia Pacific
+TXN-10720,2025-12-31,CUST-114,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,4017.75,4.0,North America
+TXN-10721,2026-01-01,CUST-115,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1444.63,4.0,Europe
+TXN-10722,2026-01-01,CUST-131,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,740.38,4.0,Europe
+TXN-10723,2026-01-02,CUST-101,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,2813.15,4.5,Europe
+TXN-10724,2026-01-02,CUST-103,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,2256.22,4.5,Europe
+TXN-10725,2026-01-03,CUST-116,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,1175.55,4.5,Europe
+TXN-10726,2026-01-03,CUST-123,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1146.28,4.5,North America
+TXN-10727,2026-01-04,CUST-111,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,1029.95,3.5,North America
+TXN-10728,2026-01-04,CUST-112,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,3012.12,3.5,Europe
+TXN-10729,2026-01-05,CUST-110,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,775.11,4.0,Asia Pacific
+TXN-10730,2026-01-05,CUST-132,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,847.28,4.5,Europe
+TXN-10731,2026-01-06,CUST-116,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1385.11,4.0,Asia Pacific
+TXN-10732,2026-01-06,CUST-108,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,2286.46,4.0,Latin America
+TXN-10733,2026-01-07,CUST-138,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,705.92,4.5,North America
+TXN-10734,2026-01-07,CUST-112,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1896.87,5.0,Europe
+TXN-10735,2026-01-08,CUST-124,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,745.39,3.0,Europe
+TXN-10736,2026-01-08,CUST-128,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,2050.46,4.5,Latin America
+TXN-10737,2026-01-09,CUST-108,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,653.88,4.5,Latin America
+TXN-10738,2026-01-09,CUST-128,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1547.76,5.0,Europe
+TXN-10739,2026-01-10,CUST-136,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,471.71,5.0,North America
+TXN-10740,2026-01-10,CUST-126,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,1868.4,3.0,Asia Pacific
+TXN-10741,2026-01-11,CUST-108,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,3107.99,4.0,North America
+TXN-10742,2026-01-11,CUST-150,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,3980.97,5.0,Asia Pacific
+TXN-10743,2026-01-12,CUST-128,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,337.01,4.5,Latin America
+TXN-10744,2026-01-12,CUST-128,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1310.84,4.5,North America
+TXN-10745,2026-01-13,CUST-137,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,3854.31,4.5,Europe
+TXN-10746,2026-01-13,CUST-141,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,1094.52,4.5,Europe
+TXN-10747,2026-01-14,CUST-136,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,1489.65,5.0,Europe
+TXN-10748,2026-01-14,CUST-127,PROD-01,AI Analytics Suite,AI Solutions,850.0,6,5100.0,2284.05,5.0,North America
+TXN-10749,2026-01-15,CUST-117,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,2991.9,4.5,Asia Pacific
+TXN-10750,2026-01-15,CUST-109,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,450.95,4.0,Latin America
+TXN-10751,2026-01-16,CUST-133,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,434.82,5.0,Latin America
+TXN-10752,2026-01-16,CUST-120,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1481.48,3.0,North America
+TXN-10753,2026-01-17,CUST-113,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,2126.88,4.0,Asia Pacific
+TXN-10754,2026-01-17,CUST-128,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,5820.04,5.0,Asia Pacific
+TXN-10755,2026-01-18,CUST-148,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1250.47,4.0,North America
+TXN-10756,2026-01-18,CUST-129,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,397.02,4.0,North America
+TXN-10757,2026-01-19,CUST-113,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1229.11,3.5,North America
+TXN-10758,2026-01-19,CUST-146,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,504.23,5.0,Latin America
+TXN-10759,2026-01-20,CUST-135,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,2414.45,4.5,Europe
+TXN-10760,2026-01-20,CUST-106,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,214.3,4.5,Asia Pacific
+TXN-10761,2026-01-21,CUST-118,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,938.76,4.0,North America
+TXN-10762,2026-01-21,CUST-105,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,2440.33,5.0,Asia Pacific
+TXN-10763,2026-01-22,CUST-147,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,1260.93,5.0,North America
+TXN-10764,2026-01-22,CUST-125,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,2126.99,4.0,North America
+TXN-10765,2026-01-23,CUST-102,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1721.72,4.5,Europe
+TXN-10766,2026-01-23,CUST-110,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,291.0,4.0,North America
+TXN-10767,2026-01-24,CUST-130,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,1825.0,5.0,Asia Pacific
+TXN-10768,2026-01-24,CUST-150,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,229.84,4.5,North America
+TXN-10769,2026-01-25,CUST-145,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,180.25,5.0,Europe
+TXN-10770,2026-01-25,CUST-105,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1518.82,4.0,Europe
+TXN-10771,2026-01-26,CUST-133,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,2424.87,5.0,Europe
+TXN-10772,2026-01-26,CUST-101,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1114.77,5.0,North America
+TXN-10773,2026-01-27,CUST-118,PROD-08,Recommendation Agent,Analytics Tools,680.0,1,680.0,176.87,4.5,North America
+TXN-10774,2026-01-27,CUST-132,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,3493.54,5.0,Latin America
+TXN-10775,2026-01-28,CUST-147,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1017.51,4.0,North America
+TXN-10776,2026-01-28,CUST-149,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1981.71,3.5,Asia Pacific
+TXN-10777,2026-01-29,CUST-111,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,785.08,4.5,Latin America
+TXN-10778,2026-01-29,CUST-121,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,270.03,4.5,North America
+TXN-10779,2026-01-30,CUST-126,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,3815.99,4.5,North America
+TXN-10780,2026-01-30,CUST-125,PROD-05,Smart BI Assistant,AI Solutions,500.0,11,5500.0,2856.57,4.0,Europe
+TXN-10781,2026-01-31,CUST-122,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2943.68,4.5,Latin America
+TXN-10782,2026-01-31,CUST-127,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1251.31,4.0,Latin America
+TXN-10783,2026-02-01,CUST-149,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,3980.21,4.5,Europe
+TXN-10784,2026-02-01,CUST-113,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,3293.08,4.5,Asia Pacific
+TXN-10785,2026-02-02,CUST-133,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2985.75,4.5,North America
+TXN-10786,2026-02-02,CUST-134,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,226.56,4.0,Latin America
+TXN-10787,2026-02-03,CUST-141,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,1461.16,4.5,Latin America
+TXN-10788,2026-02-03,CUST-135,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,211.51,4.0,North America
+TXN-10789,2026-02-04,CUST-101,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1080.71,4.0,North America
+TXN-10790,2026-02-04,CUST-121,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1183.52,5.0,North America
+TXN-10791,2026-02-05,CUST-148,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,1401.65,5.0,North America
+TXN-10792,2026-02-05,CUST-106,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,4593.49,4.0,Asia Pacific
+TXN-10793,2026-02-06,CUST-128,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,1328.47,5.0,North America
+TXN-10794,2026-02-06,CUST-117,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,3271.8,5.0,North America
+TXN-10795,2026-02-07,CUST-105,PROD-05,Smart BI Assistant,AI Solutions,500.0,9,4500.0,2283.33,5.0,North America
+TXN-10796,2026-02-07,CUST-131,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,2307.01,4.0,Latin America
+TXN-10797,2026-02-08,CUST-105,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,2411.92,5.0,Europe
+TXN-10798,2026-02-08,CUST-138,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,471.79,4.0,Europe
+TXN-10799,2026-02-09,CUST-103,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,4517.63,4.0,North America
+TXN-10800,2026-02-10,CUST-123,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,173.41,3.5,Latin America
+TXN-10801,2026-02-10,CUST-137,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,2259.2,4.5,Asia Pacific
+TXN-10802,2026-02-11,CUST-137,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,805.79,3.5,North America
+TXN-10803,2026-02-11,CUST-110,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,2639.06,4.0,North America
+TXN-10804,2026-02-12,CUST-110,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2015.3,4.0,North America
+TXN-10805,2026-02-12,CUST-119,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1289.38,5.0,North America
+TXN-10806,2026-02-13,CUST-117,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,200.84,5.0,Europe
+TXN-10807,2026-02-13,CUST-121,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,3036.25,4.0,Latin America
+TXN-10808,2026-02-14,CUST-114,PROD-07,Vision AI Engine,AI Solutions,750.0,7,5250.0,1335.15,5.0,Europe
+TXN-10809,2026-02-14,CUST-109,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4553.41,5.0,Asia Pacific
+TXN-10810,2026-02-15,CUST-146,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,1311.37,5.0,Europe
+TXN-10811,2026-02-15,CUST-101,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1531.81,3.5,Asia Pacific
+TXN-10812,2026-02-16,CUST-145,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,1766.35,4.5,Asia Pacific
+TXN-10813,2026-02-16,CUST-113,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3748.5,5.0,North America
+TXN-10814,2026-02-17,CUST-104,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1830.6,4.5,North America
+TXN-10815,2026-02-17,CUST-101,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,1466.57,4.0,Europe
+TXN-10816,2026-02-18,CUST-149,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,371.78,4.5,North America
+TXN-10817,2026-02-18,CUST-140,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1527.99,4.5,North America
+TXN-10818,2026-02-19,CUST-132,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,579.47,4.5,Europe
+TXN-10819,2026-02-19,CUST-134,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,381.86,3.5,Latin America
+TXN-10820,2026-02-20,CUST-128,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,547.2,4.0,Europe
+TXN-10821,2026-02-20,CUST-131,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,858.63,5.0,Asia Pacific
+TXN-10822,2026-02-21,CUST-108,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,229.61,5.0,Europe
+TXN-10823,2026-02-21,CUST-139,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1571.54,3.5,Asia Pacific
+TXN-10824,2026-02-22,CUST-126,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,550.15,5.0,Europe
+TXN-10825,2026-02-22,CUST-134,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1194.98,4.0,Asia Pacific
+TXN-10826,2026-02-23,CUST-103,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,514.87,4.5,Europe
+TXN-10827,2026-02-23,CUST-150,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1691.05,5.0,Europe
+TXN-10828,2026-02-24,CUST-112,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,1268.98,5.0,Europe
+TXN-10829,2026-02-24,CUST-101,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,211.54,5.0,Europe
+TXN-10830,2026-02-25,CUST-144,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,347.06,4.0,North America
+TXN-10831,2026-02-25,CUST-105,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1253.96,5.0,North America
+TXN-10832,2026-02-26,CUST-130,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,1119.33,3.5,North America
+TXN-10833,2026-02-26,CUST-130,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,3331.33,4.5,Asia Pacific
+TXN-10834,2026-02-27,CUST-117,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,2646.87,4.5,North America
+TXN-10835,2026-02-27,CUST-148,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,668.2,4.5,North America
+TXN-10836,2026-02-28,CUST-147,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,4598.85,4.0,Asia Pacific
+TXN-10837,2026-02-28,CUST-123,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4065.5,5.0,North America
+TXN-10838,2026-03-01,CUST-115,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,452.21,4.0,Europe
+TXN-10839,2026-03-01,CUST-137,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,985.39,3.5,North America
+TXN-10840,2026-03-02,CUST-121,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,5972.15,4.5,Latin America
+TXN-10841,2026-03-02,CUST-114,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,2266.3,4.5,Asia Pacific
+TXN-10842,2026-03-03,CUST-102,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,361.94,5.0,Asia Pacific
+TXN-10843,2026-03-03,CUST-111,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1757.28,4.0,Europe
+TXN-10844,2026-03-04,CUST-139,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,720.5,4.0,Asia Pacific
+TXN-10845,2026-03-04,CUST-138,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2160.58,5.0,North America
+TXN-10846,2026-03-05,CUST-134,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2469.23,4.5,North America
+TXN-10847,2026-03-05,CUST-138,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1446.29,4.0,North America
+TXN-10848,2026-03-06,CUST-150,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1467.15,4.5,Europe
+TXN-10849,2026-03-06,CUST-134,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1130.79,4.5,Europe
+TXN-10850,2026-03-07,CUST-118,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,1959.29,4.5,Europe
+TXN-10851,2026-03-07,CUST-130,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,5333.46,4.5,North America
+TXN-10852,2026-03-08,CUST-115,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2363.85,5.0,Europe
+TXN-10853,2026-03-08,CUST-127,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,303.81,5.0,Asia Pacific
+TXN-10854,2026-03-09,CUST-134,PROD-09,AutoML Workbench,Analytics Tools,1100.0,6,6600.0,3046.18,4.5,Europe
+TXN-10855,2026-03-09,CUST-138,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,1101.67,3.5,Asia Pacific
+TXN-10856,2026-03-10,CUST-133,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2161.58,5.0,North America
+TXN-10857,2026-03-10,CUST-124,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,451.09,4.5,Asia Pacific
+TXN-10858,2026-03-11,CUST-115,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,285.87,4.5,Europe
+TXN-10859,2026-03-11,CUST-130,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,1035.76,4.0,North America
+TXN-10860,2026-03-12,CUST-142,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1741.43,5.0,North America
+TXN-10861,2026-03-12,CUST-117,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,2142.9,4.5,Europe
+TXN-10862,2026-03-13,CUST-105,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,275.94,3.5,Asia Pacific
+TXN-10863,2026-03-13,CUST-129,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,2106.08,4.5,Europe
+TXN-10864,2026-03-14,CUST-104,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,5399.28,5.0,North America
+TXN-10865,2026-03-14,CUST-110,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,2018.54,3.0,Asia Pacific
+TXN-10866,2026-03-15,CUST-117,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2464.68,5.0,Europe
+TXN-10867,2026-03-15,CUST-110,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,337.07,4.5,Europe
+TXN-10868,2026-03-16,CUST-117,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,2267.86,4.5,Europe
+TXN-10869,2026-03-16,CUST-120,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,932.74,4.0,North America
+TXN-10870,2026-03-17,CUST-124,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2530.69,4.0,Europe
+TXN-10871,2026-03-17,CUST-105,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,3297.73,5.0,North America
+TXN-10872,2026-03-18,CUST-134,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,1579.18,4.0,Latin America
+TXN-10873,2026-03-18,CUST-106,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1806.07,5.0,Europe
+TXN-10874,2026-03-19,CUST-102,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1026.84,4.0,Europe
+TXN-10875,2026-03-19,CUST-113,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,2940.94,3.5,Europe
+TXN-10876,2026-03-20,CUST-143,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,265.6,3.0,Latin America
+TXN-10877,2026-03-20,CUST-143,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1245.71,4.5,Asia Pacific
+TXN-10878,2026-03-21,CUST-148,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1244.1,5.0,Europe
+TXN-10879,2026-03-21,CUST-111,PROD-01,AI Analytics Suite,AI Solutions,850.0,7,5950.0,1638.45,4.0,Asia Pacific
+TXN-10880,2026-03-22,CUST-147,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,3305.21,4.0,Europe
+TXN-10881,2026-03-23,CUST-123,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,2185.74,4.0,Europe
+TXN-10882,2026-03-23,CUST-116,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,3707.1,4.5,North America
+TXN-10883,2026-03-24,CUST-131,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,10,4500.0,2014.71,4.5,Europe
+TXN-10884,2026-03-24,CUST-111,PROD-10,Demand Forecast Bot,Cloud Services,400.0,2,800.0,250.7,5.0,North America
+TXN-10885,2026-03-25,CUST-116,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1832.04,4.5,Latin America
+TXN-10886,2026-03-25,CUST-108,PROD-08,Recommendation Agent,Analytics Tools,680.0,3,2040.0,1052.29,4.5,North America
+TXN-10887,2026-03-26,CUST-104,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1112.39,3.5,Latin America
+TXN-10888,2026-03-26,CUST-140,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1979.16,5.0,Europe
+TXN-10889,2026-03-27,CUST-104,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,2956.41,4.0,Europe
+TXN-10890,2026-03-27,CUST-125,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,6478.46,3.5,Europe
+TXN-10891,2026-03-28,CUST-103,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,2745.86,4.5,North America
+TXN-10892,2026-03-28,CUST-132,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1139.63,4.5,North America
+TXN-10893,2026-03-29,CUST-103,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,3177.56,4.5,North America
+TXN-10894,2026-03-29,CUST-127,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1572.44,4.5,Europe
+TXN-10895,2026-03-30,CUST-129,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,975.63,5.0,Europe
+TXN-10896,2026-03-30,CUST-132,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,194.75,4.0,Asia Pacific
+TXN-10897,2026-03-31,CUST-150,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1613.49,5.0,North America
+TXN-10898,2026-03-31,CUST-119,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,2069.13,4.5,North America
+TXN-10899,2026-04-01,CUST-121,PROD-05,Smart BI Assistant,AI Solutions,500.0,2,1000.0,350.58,4.5,Europe
+TXN-10900,2026-04-01,CUST-105,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1296.5,4.5,Latin America
+TXN-10901,2026-04-02,CUST-118,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,1356.51,4.0,Asia Pacific
+TXN-10902,2026-04-02,CUST-128,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,3292.36,5.0,Europe
+TXN-10903,2026-04-03,CUST-142,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,1517.29,4.5,Europe
+TXN-10904,2026-04-03,CUST-122,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,1195.63,4.0,North America
+TXN-10905,2026-04-04,CUST-121,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,1322.55,4.5,Latin America
+TXN-10906,2026-04-04,CUST-106,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,182.84,5.0,Europe
+TXN-10907,2026-04-05,CUST-101,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,203.48,4.5,North America
+TXN-10908,2026-04-05,CUST-105,PROD-07,Vision AI Engine,AI Solutions,750.0,4,3000.0,939.71,5.0,Europe
+TXN-10909,2026-04-06,CUST-141,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,478.21,4.0,North America
+TXN-10910,2026-04-06,CUST-112,PROD-09,AutoML Workbench,Analytics Tools,1100.0,10,11000.0,4298.05,3.5,Latin America
+TXN-10911,2026-04-07,CUST-126,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,628.08,4.0,North America
+TXN-10912,2026-04-07,CUST-146,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1009.06,4.5,Europe
+TXN-10913,2026-04-08,CUST-134,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,3137.58,4.0,North America
+TXN-10914,2026-04-08,CUST-149,PROD-05,Smart BI Assistant,AI Solutions,500.0,11,5500.0,1618.0,3.0,Asia Pacific
+TXN-10915,2026-04-09,CUST-114,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,2682.52,5.0,Asia Pacific
+TXN-10916,2026-04-09,CUST-126,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,573.35,5.0,Europe
+TXN-10917,2026-04-10,CUST-145,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,324.2,4.5,Europe
+TXN-10918,2026-04-10,CUST-127,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2176.96,4.0,Asia Pacific
+TXN-10919,2026-04-11,CUST-109,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,833.78,3.5,North America
+TXN-10920,2026-04-11,CUST-126,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,3720.11,3.5,North America
+TXN-10921,2026-04-12,CUST-147,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,2,2400.0,834.9,4.5,North America
+TXN-10922,2026-04-12,CUST-122,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,924.3,5.0,Latin America
+TXN-10923,2026-04-13,CUST-147,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1023.21,4.5,North America
+TXN-10924,2026-04-13,CUST-130,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,1646.75,3.5,Asia Pacific
+TXN-10925,2026-04-14,CUST-143,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,196.16,4.5,Europe
+TXN-10926,2026-04-14,CUST-148,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,855.83,4.0,North America
+TXN-10927,2026-04-15,CUST-117,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,384.37,4.0,North America
+TXN-10928,2026-04-15,CUST-126,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,510.66,4.5,North America
+TXN-10929,2026-04-16,CUST-136,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,626.3,4.5,Europe
+TXN-10930,2026-04-16,CUST-101,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,4335.82,3.5,North America
+TXN-10931,2026-04-17,CUST-108,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,1764.46,3.0,North America
+TXN-10932,2026-04-17,CUST-149,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1552.29,5.0,Asia Pacific
+TXN-10933,2026-04-18,CUST-135,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,1146.14,4.0,Latin America
+TXN-10934,2026-04-18,CUST-115,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,2445.94,3.5,North America
+TXN-10935,2026-04-19,CUST-147,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,747.51,4.0,North America
+TXN-10936,2026-04-19,CUST-122,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,3360.57,3.0,North America
+TXN-10937,2026-04-20,CUST-114,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1499.19,4.0,Europe
+TXN-10938,2026-04-20,CUST-126,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1005.65,5.0,Asia Pacific
+TXN-10939,2026-04-21,CUST-128,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3673.74,4.0,North America
+TXN-10940,2026-04-21,CUST-123,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,3042.46,4.5,North America
+TXN-10941,2026-04-22,CUST-114,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4029.99,4.5,Asia Pacific
+TXN-10942,2026-04-22,CUST-124,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,1144.71,4.5,Europe
+TXN-10943,2026-04-23,CUST-102,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,263.9,5.0,North America
+TXN-10944,2026-04-23,CUST-145,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1967.4,5.0,Europe
+TXN-10945,2026-04-24,CUST-126,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,11,4950.0,1643.86,3.0,North America
+TXN-10946,2026-04-24,CUST-114,PROD-01,AI Analytics Suite,AI Solutions,850.0,5,4250.0,1684.49,5.0,North America
+TXN-10947,2026-04-25,CUST-107,PROD-08,Recommendation Agent,Analytics Tools,680.0,10,6800.0,1867.84,4.5,Asia Pacific
+TXN-10948,2026-04-25,CUST-103,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,775.75,5.0,Asia Pacific
+TXN-10949,2026-04-26,CUST-147,PROD-07,Vision AI Engine,AI Solutions,750.0,10,7500.0,2564.54,4.5,Europe
+TXN-10950,2026-04-26,CUST-123,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,1117.61,5.0,Latin America
+TXN-10951,2026-04-27,CUST-146,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,10,4500.0,1201.92,5.0,Europe
+TXN-10952,2026-04-27,CUST-143,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,938.96,4.0,Asia Pacific
+TXN-10953,2026-04-28,CUST-147,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,523.16,4.5,Europe
+TXN-10954,2026-04-28,CUST-145,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,3599.76,5.0,Asia Pacific
+TXN-10955,2026-04-29,CUST-118,PROD-10,Demand Forecast Bot,Cloud Services,400.0,6,2400.0,1013.49,5.0,Latin America
+TXN-10956,2026-04-29,CUST-138,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,1980.72,3.5,North America
+TXN-10957,2026-04-30,CUST-135,PROD-10,Demand Forecast Bot,Cloud Services,400.0,2,800.0,386.49,4.5,Latin America
+TXN-10958,2026-04-30,CUST-115,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,3113.0,4.0,Asia Pacific
+TXN-10959,2026-05-01,CUST-125,PROD-10,Demand Forecast Bot,Cloud Services,400.0,1,400.0,137.67,3.0,Asia Pacific
+TXN-10960,2026-05-02,CUST-137,PROD-09,AutoML Workbench,Analytics Tools,1100.0,11,12100.0,4978.02,4.5,North America
+TXN-10961,2026-05-02,CUST-128,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,803.25,4.0,Asia Pacific
+TXN-10962,2026-05-03,CUST-110,PROD-08,Recommendation Agent,Analytics Tools,680.0,1,680.0,371.85,5.0,Asia Pacific
+TXN-10963,2026-05-03,CUST-139,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,2108.77,4.0,North America
+TXN-10964,2026-05-04,CUST-117,PROD-01,AI Analytics Suite,AI Solutions,850.0,4,3400.0,1228.9,5.0,Latin America
+TXN-10965,2026-05-04,CUST-139,PROD-10,Demand Forecast Bot,Cloud Services,400.0,5,2000.0,617.1,3.0,North America
+TXN-10966,2026-05-05,CUST-122,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,992.04,4.0,North America
+TXN-10967,2026-05-05,CUST-126,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,4039.81,4.0,Europe
+TXN-10968,2026-05-06,CUST-144,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,238.66,4.0,Europe
+TXN-10969,2026-05-06,CUST-125,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,537.14,3.5,Europe
+TXN-10970,2026-05-07,CUST-117,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,3610.58,4.0,North America
+TXN-10971,2026-05-07,CUST-113,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1702.5,4.5,Latin America
+TXN-10972,2026-05-08,CUST-120,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,4190.49,4.0,North America
+TXN-10973,2026-05-08,CUST-125,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,1041.72,4.5,North America
+TXN-10974,2026-05-09,CUST-104,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1149.95,4.0,North America
+TXN-10975,2026-05-09,CUST-110,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,695.15,5.0,Europe
+TXN-10976,2026-05-10,CUST-103,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,5744.81,5.0,Latin America
+TXN-10977,2026-05-10,CUST-141,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,546.82,4.5,Europe
+TXN-10978,2026-05-11,CUST-145,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,370.71,4.0,Asia Pacific
+TXN-10979,2026-05-11,CUST-118,PROD-01,AI Analytics Suite,AI Solutions,850.0,10,8500.0,4551.18,3.5,North America
+TXN-10980,2026-05-12,CUST-147,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,226.99,5.0,Europe
+TXN-10981,2026-05-12,CUST-136,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,1260.95,3.5,Europe
+TXN-10982,2026-05-13,CUST-147,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,1059.49,4.0,Europe
+TXN-10983,2026-05-13,CUST-122,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,3710.9,4.0,North America
+TXN-10984,2026-05-14,CUST-134,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,3724.76,4.0,Europe
+TXN-10985,2026-05-14,CUST-147,PROD-02,ML Predictor Pro,Analytics Tools,600.0,4,2400.0,765.48,4.0,Europe
+TXN-10986,2026-05-15,CUST-108,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,1060.29,5.0,Asia Pacific
+TXN-10987,2026-05-15,CUST-140,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,271.24,3.5,Europe
+TXN-10988,2026-05-16,CUST-149,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1794.0,4.5,North America
+TXN-10989,2026-05-16,CUST-144,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,745.54,3.5,Europe
+TXN-10990,2026-05-17,CUST-119,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,379.14,3.5,North America
+TXN-10991,2026-05-17,CUST-142,PROD-05,Smart BI Assistant,AI Solutions,500.0,11,5500.0,1680.7,5.0,Asia Pacific
+TXN-10992,2026-05-18,CUST-141,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1601.25,4.0,Europe
+TXN-10993,2026-05-18,CUST-137,PROD-07,Vision AI Engine,AI Solutions,750.0,3,2250.0,710.13,5.0,North America
+TXN-10994,2026-05-19,CUST-106,PROD-10,Demand Forecast Bot,Cloud Services,400.0,1,400.0,121.94,4.5,Latin America
+TXN-10995,2026-05-19,CUST-126,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1642.45,3.5,Europe
+TXN-10996,2026-05-20,CUST-134,PROD-09,AutoML Workbench,Analytics Tools,1100.0,2,2200.0,738.57,5.0,North America
+TXN-10997,2026-05-20,CUST-145,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,4647.61,4.0,Europe
+TXN-10998,2026-05-21,CUST-106,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1947.52,5.0,North America
+TXN-10999,2026-05-21,CUST-137,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,9,10800.0,4550.88,4.0,Asia Pacific
+TXN-11000,2026-05-22,CUST-133,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,1757.4,5.0,Asia Pacific
+TXN-11001,2026-05-22,CUST-122,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,1811.82,3.0,Latin America
+TXN-11002,2026-05-23,CUST-121,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,880.78,4.5,Europe
+TXN-11003,2026-05-23,CUST-106,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2161.3,5.0,Europe
+TXN-11004,2026-05-24,CUST-106,PROD-10,Demand Forecast Bot,Cloud Services,400.0,7,2800.0,773.09,5.0,Asia Pacific
+TXN-11005,2026-05-24,CUST-148,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,938.33,5.0,North America
+TXN-11006,2026-05-25,CUST-104,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,3021.22,5.0,Europe
+TXN-11007,2026-05-25,CUST-130,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2688.28,5.0,Europe
+TXN-11008,2026-05-26,CUST-111,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,257.16,4.0,North America
+TXN-11009,2026-05-26,CUST-130,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1694.36,4.0,Europe
+TXN-11010,2026-05-27,CUST-131,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,859.93,4.0,Asia Pacific
+TXN-11011,2026-05-27,CUST-124,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,2271.33,4.0,Asia Pacific
+TXN-11012,2026-05-28,CUST-109,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,1459.83,4.0,North America
+TXN-11013,2026-05-28,CUST-103,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1429.56,4.5,North America
+TXN-11014,2026-05-29,CUST-131,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,740.19,4.0,North America
+TXN-11015,2026-05-29,CUST-140,PROD-10,Demand Forecast Bot,Cloud Services,400.0,2,800.0,200.16,4.5,Asia Pacific
+TXN-11016,2026-05-30,CUST-137,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,4217.41,4.0,North America
+TXN-11017,2026-05-30,CUST-136,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2780.34,4.0,Asia Pacific
+TXN-11018,2026-05-31,CUST-124,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1787.85,4.5,North America
+TXN-11019,2026-05-31,CUST-131,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,1187.7,5.0,Europe
+TXN-11020,2026-06-01,CUST-106,PROD-01,AI Analytics Suite,AI Solutions,850.0,6,5100.0,1507.63,4.5,North America
+TXN-11021,2026-06-01,CUST-102,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,4049.34,4.5,Asia Pacific
+TXN-11022,2026-06-02,CUST-120,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,2985.07,4.0,North America
+TXN-11023,2026-06-02,CUST-128,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,1529.73,4.5,Europe
+TXN-11024,2026-06-03,CUST-111,PROD-08,Recommendation Agent,Analytics Tools,680.0,1,680.0,269.17,3.5,North America
+TXN-11025,2026-06-03,CUST-104,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,3578.31,4.0,Asia Pacific
+TXN-11026,2026-06-04,CUST-115,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,4,1800.0,471.63,4.5,Asia Pacific
+TXN-11027,2026-06-04,CUST-106,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,3340.64,3.0,North America
+TXN-11028,2026-06-05,CUST-149,PROD-07,Vision AI Engine,AI Solutions,750.0,10,7500.0,2341.97,4.0,Asia Pacific
+TXN-11029,2026-06-05,CUST-130,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,1832.23,5.0,Europe
+TXN-11030,2026-06-06,CUST-138,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,444.15,5.0,North America
+TXN-11031,2026-06-06,CUST-102,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,702.76,4.0,Europe
+TXN-11032,2026-06-07,CUST-115,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,584.83,3.0,North America
+TXN-11033,2026-06-07,CUST-111,PROD-05,Smart BI Assistant,AI Solutions,500.0,10,5000.0,2390.86,4.0,Asia Pacific
+TXN-11034,2026-06-08,CUST-108,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,806.07,4.0,Asia Pacific
+TXN-11035,2026-06-08,CUST-126,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,6,2700.0,1069.68,5.0,North America
+TXN-11036,2026-06-09,CUST-145,PROD-08,Recommendation Agent,Analytics Tools,680.0,7,4760.0,1804.02,3.5,Europe
+TXN-11037,2026-06-09,CUST-144,PROD-02,ML Predictor Pro,Analytics Tools,600.0,10,6000.0,2574.44,5.0,Asia Pacific
+TXN-11038,2026-06-10,CUST-105,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,2639.36,3.5,Latin America
+TXN-11039,2026-06-10,CUST-106,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,6,2700.0,1298.25,5.0,Europe
+TXN-11040,2026-06-11,CUST-126,PROD-10,Demand Forecast Bot,Cloud Services,400.0,11,4400.0,1625.18,4.0,Latin America
+TXN-11041,2026-06-12,CUST-104,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,597.92,5.0,Europe
+TXN-11042,2026-06-12,CUST-119,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1084.37,4.0,North America
+TXN-11043,2026-06-13,CUST-120,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,816.29,4.5,Asia Pacific
+TXN-11044,2026-06-13,CUST-133,PROD-02,ML Predictor Pro,Analytics Tools,600.0,11,6600.0,2054.81,4.0,Europe
+TXN-11045,2026-06-14,CUST-120,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,2905.02,3.5,Europe
+TXN-11046,2026-06-14,CUST-149,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2177.14,5.0,Europe
+TXN-11047,2026-06-15,CUST-112,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,586.63,5.0,Asia Pacific
+TXN-11048,2026-06-15,CUST-147,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,889.41,5.0,Asia Pacific
+TXN-11049,2026-06-16,CUST-101,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,483.55,4.5,Europe
+TXN-11050,2026-06-16,CUST-126,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,720.69,5.0,North America
+TXN-11051,2026-06-17,CUST-114,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,994.02,3.5,Europe
+TXN-11052,2026-06-17,CUST-138,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,2721.95,4.0,Europe
+TXN-11053,2026-06-18,CUST-137,PROD-08,Recommendation Agent,Analytics Tools,680.0,2,1360.0,564.87,4.0,North America
+TXN-11054,2026-06-18,CUST-111,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,514.96,4.5,Asia Pacific
+TXN-11055,2026-06-19,CUST-136,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,802.81,4.0,Europe
+TXN-11056,2026-06-19,CUST-113,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,1983.06,3.5,North America
+TXN-11057,2026-06-20,CUST-143,PROD-05,Smart BI Assistant,AI Solutions,500.0,3,1500.0,386.24,4.5,North America
+TXN-11058,2026-06-20,CUST-103,PROD-09,AutoML Workbench,Analytics Tools,1100.0,9,9900.0,3808.65,5.0,North America
+TXN-11059,2026-06-21,CUST-133,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,1927.46,4.0,Latin America
+TXN-11060,2026-06-21,CUST-106,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,423.81,3.5,North America
+TXN-11061,2026-06-22,CUST-150,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,514.12,4.0,North America
+TXN-11062,2026-06-22,CUST-110,PROD-07,Vision AI Engine,AI Solutions,750.0,1,750.0,212.61,4.0,Europe
+TXN-11063,2026-06-23,CUST-105,PROD-01,AI Analytics Suite,AI Solutions,850.0,1,850.0,367.62,4.0,North America
+TXN-11064,2026-06-23,CUST-123,PROD-08,Recommendation Agent,Analytics Tools,680.0,1,680.0,227.33,4.5,North America
+TXN-11065,2026-06-24,CUST-110,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,2295.57,4.5,North America
+TXN-11066,2026-06-24,CUST-144,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1310.13,4.5,Europe
+TXN-11067,2026-06-25,CUST-102,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,2206.95,4.0,Europe
+TXN-11068,2026-06-25,CUST-113,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1323.46,5.0,North America
+TXN-11069,2026-06-26,CUST-140,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3554.73,4.0,Europe
+TXN-11070,2026-06-26,CUST-102,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,647.2,4.5,Latin America
+TXN-11071,2026-06-27,CUST-120,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,1686.41,5.0,North America
+TXN-11072,2026-06-27,CUST-101,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,610.05,4.0,North America
+TXN-11073,2026-06-28,CUST-137,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1849.13,3.5,North America
+TXN-11074,2026-06-28,CUST-109,PROD-08,Recommendation Agent,Analytics Tools,680.0,6,4080.0,1712.52,5.0,Europe
+TXN-11075,2026-06-29,CUST-117,PROD-01,AI Analytics Suite,AI Solutions,850.0,11,9350.0,4943.75,4.0,Asia Pacific
+TXN-11076,2026-06-29,CUST-109,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1208.45,4.5,North America
+TXN-11077,2026-06-30,CUST-111,PROD-05,Smart BI Assistant,AI Solutions,500.0,6,3000.0,809.55,3.0,Asia Pacific
+TXN-11078,2026-06-30,CUST-115,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,2429.59,4.5,North America
+TXN-11079,2026-07-01,CUST-124,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,10,4500.0,2241.26,4.0,Europe
+TXN-11080,2026-07-01,CUST-138,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,5,2250.0,916.7,3.5,Asia Pacific
+TXN-11081,2026-07-02,CUST-135,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,579.09,4.5,North America
+TXN-11082,2026-07-02,CUST-130,PROD-08,Recommendation Agent,Analytics Tools,680.0,9,6120.0,1960.41,4.0,Europe
+TXN-11083,2026-07-03,CUST-131,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2121.15,4.0,North America
+TXN-11084,2026-07-03,CUST-149,PROD-01,AI Analytics Suite,AI Solutions,850.0,3,2550.0,660.53,3.5,Asia Pacific
+TXN-11085,2026-07-04,CUST-105,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,2153.79,3.5,North America
+TXN-11086,2026-07-04,CUST-144,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,9,4050.0,1823.96,4.0,Asia Pacific
+TXN-11087,2026-07-05,CUST-150,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,3,2850.0,1510.39,3.5,North America
+TXN-11088,2026-07-05,CUST-114,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,593.37,5.0,Asia Pacific
+TXN-11089,2026-07-06,CUST-111,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,823.53,3.0,North America
+TXN-11090,2026-07-06,CUST-109,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,3084.14,4.5,Asia Pacific
+TXN-11091,2026-07-07,CUST-134,PROD-07,Vision AI Engine,AI Solutions,750.0,10,7500.0,2589.49,3.5,North America
+TXN-11092,2026-07-07,CUST-112,PROD-02,ML Predictor Pro,Analytics Tools,600.0,1,600.0,302.66,4.0,Latin America
+TXN-11093,2026-07-08,CUST-135,PROD-02,ML Predictor Pro,Analytics Tools,600.0,8,4800.0,2563.91,5.0,North America
+TXN-11094,2026-07-08,CUST-135,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,3969.02,4.0,North America
+TXN-11095,2026-07-09,CUST-101,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,1651.02,5.0,Europe
+TXN-11096,2026-07-09,CUST-140,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,599.83,4.0,North America
+TXN-11097,2026-07-10,CUST-122,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,367.93,4.5,North America
+TXN-11098,2026-07-10,CUST-129,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,2371.64,4.5,Latin America
+TXN-11099,2026-07-11,CUST-108,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,1936.1,5.0,Latin America
+TXN-11100,2026-07-11,CUST-111,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,5,6000.0,2788.89,4.5,North America
+TXN-11101,2026-07-12,CUST-141,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,438.78,4.5,Latin America
+TXN-11102,2026-07-12,CUST-137,PROD-07,Vision AI Engine,AI Solutions,750.0,5,3750.0,1638.03,4.0,Europe
+TXN-11103,2026-07-13,CUST-114,PROD-10,Demand Forecast Bot,Cloud Services,400.0,8,3200.0,1750.5,4.0,North America
+TXN-11104,2026-07-13,CUST-130,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,2611.09,5.0,Asia Pacific
+TXN-11105,2026-07-14,CUST-135,PROD-02,ML Predictor Pro,Analytics Tools,600.0,5,3000.0,1055.97,4.0,Europe
+TXN-11106,2026-07-14,CUST-121,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,1847.35,4.0,Latin America
+TXN-11107,2026-07-15,CUST-137,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,172.28,5.0,North America
+TXN-11108,2026-07-15,CUST-105,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,4,4800.0,1575.91,4.0,Europe
+TXN-11109,2026-07-16,CUST-119,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,476.57,5.0,North America
+TXN-11110,2026-07-16,CUST-114,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,450.33,4.5,North America
+TXN-11111,2026-07-17,CUST-126,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,2122.58,4.5,North America
+TXN-11112,2026-07-17,CUST-104,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,2033.04,5.0,Latin America
+TXN-11113,2026-07-18,CUST-125,PROD-10,Demand Forecast Bot,Cloud Services,400.0,9,3600.0,1302.31,3.0,Asia Pacific
+TXN-11114,2026-07-18,CUST-145,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,898.6,4.0,Asia Pacific
+TXN-11115,2026-07-19,CUST-142,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,429.67,4.5,Europe
+TXN-11116,2026-07-19,CUST-125,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,6,2700.0,749.81,4.0,North America
+TXN-11117,2026-07-20,CUST-118,PROD-02,ML Predictor Pro,Analytics Tools,600.0,11,6600.0,1972.33,4.5,North America
+TXN-11118,2026-07-20,CUST-140,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1542.83,5.0,North America
+TXN-11119,2026-07-21,CUST-108,PROD-08,Recommendation Agent,Analytics Tools,680.0,8,5440.0,1605.57,4.5,North America
+TXN-11120,2026-07-22,CUST-139,PROD-10,Demand Forecast Bot,Cloud Services,400.0,3,1200.0,648.51,4.0,Asia Pacific
+TXN-11121,2026-07-22,CUST-140,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,345.61,5.0,Europe
+TXN-11122,2026-07-23,CUST-114,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,3,3600.0,1441.64,4.5,North America
+TXN-11123,2026-07-23,CUST-132,PROD-07,Vision AI Engine,AI Solutions,750.0,11,8250.0,2672.98,4.5,North America
+TXN-11124,2026-07-24,CUST-138,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,6,5700.0,2230.34,4.0,North America
+TXN-11125,2026-07-24,CUST-133,PROD-09,AutoML Workbench,Analytics Tools,1100.0,2,2200.0,986.86,5.0,Europe
+TXN-11126,2026-07-25,CUST-123,PROD-05,Smart BI Assistant,AI Solutions,500.0,8,4000.0,1901.41,4.5,Latin America
+TXN-11127,2026-07-25,CUST-115,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,1,1200.0,571.39,5.0,Europe
+TXN-11128,2026-07-26,CUST-133,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,1778.14,5.0,Asia Pacific
+TXN-11129,2026-07-26,CUST-125,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,625.57,4.0,Europe
+TXN-11130,2026-07-27,CUST-117,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,5942.67,4.5,North America
+TXN-11131,2026-07-27,CUST-133,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1717.61,5.0,North America
+TXN-11132,2026-07-28,CUST-147,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,506.7,4.0,Asia Pacific
+TXN-11133,2026-07-28,CUST-102,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,302.48,5.0,Asia Pacific
+TXN-11134,2026-07-29,CUST-114,PROD-10,Demand Forecast Bot,Cloud Services,400.0,10,4000.0,1254.94,5.0,North America
+TXN-11135,2026-07-29,CUST-140,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,3951.7,4.5,Europe
+TXN-11136,2026-07-30,CUST-140,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,448.03,4.5,Europe
+TXN-11137,2026-07-30,CUST-139,PROD-09,AutoML Workbench,Analytics Tools,1100.0,7,7700.0,2854.56,5.0,Europe
+TXN-11138,2026-07-31,CUST-106,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,3,1350.0,695.76,5.0,Latin America
+TXN-11139,2026-07-31,CUST-106,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,3526.95,4.0,Europe
+TXN-11140,2026-08-01,CUST-103,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,3476.3,3.5,Europe
+TXN-11141,2026-08-01,CUST-107,PROD-01,AI Analytics Suite,AI Solutions,850.0,8,6800.0,2340.31,4.5,North America
+TXN-11142,2026-08-02,CUST-108,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1440.55,4.5,North America
+TXN-11143,2026-08-02,CUST-142,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,11,10450.0,3464.07,4.5,North America
+TXN-11144,2026-08-03,CUST-115,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,2211.72,4.5,North America
+TXN-11145,2026-08-03,CUST-147,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,7,8400.0,2565.27,4.0,Asia Pacific
+TXN-11146,2026-08-04,CUST-129,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,1939.48,4.5,Asia Pacific
+TXN-11147,2026-08-04,CUST-133,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,7,3150.0,1193.81,4.0,North America
+TXN-11148,2026-08-05,CUST-130,PROD-09,AutoML Workbench,Analytics Tools,1100.0,1,1100.0,549.21,4.5,Asia Pacific
+TXN-11149,2026-08-05,CUST-139,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,142.98,4.5,North America
+TXN-11150,2026-08-06,CUST-127,PROD-02,ML Predictor Pro,Analytics Tools,600.0,9,5400.0,2540.58,4.0,North America
+TXN-11151,2026-08-06,CUST-136,PROD-08,Recommendation Agent,Analytics Tools,680.0,5,3400.0,1392.08,4.0,North America
+TXN-11152,2026-08-07,CUST-129,PROD-05,Smart BI Assistant,AI Solutions,500.0,5,2500.0,840.96,4.5,North America
+TXN-11153,2026-08-07,CUST-138,PROD-02,ML Predictor Pro,Analytics Tools,600.0,3,1800.0,716.12,4.5,North America
+TXN-11154,2026-08-08,CUST-133,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,5,4750.0,1614.92,4.0,Europe
+TXN-11155,2026-08-08,CUST-137,PROD-09,AutoML Workbench,Analytics Tools,1100.0,3,3300.0,1415.12,5.0,Europe
+TXN-11156,2026-08-09,CUST-127,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,3250.31,4.5,Latin America
+TXN-11157,2026-08-09,CUST-133,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,9,8550.0,2559.2,5.0,North America
+TXN-11158,2026-08-10,CUST-104,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1025.91,4.5,North America
+TXN-11159,2026-08-10,CUST-122,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,1,450.0,186.3,4.5,North America
+TXN-11160,2026-08-11,CUST-102,PROD-02,ML Predictor Pro,Analytics Tools,600.0,7,4200.0,2187.04,5.0,Europe
+TXN-11161,2026-08-11,CUST-110,PROD-07,Vision AI Engine,AI Solutions,750.0,7,5250.0,1854.23,4.5,North America
+TXN-11162,2026-08-12,CUST-105,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,5638.8,4.5,Asia Pacific
+TXN-11163,2026-08-12,CUST-110,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,10,12000.0,5371.18,4.0,Europe
+TXN-11164,2026-08-13,CUST-133,PROD-05,Smart BI Assistant,AI Solutions,500.0,4,2000.0,1058.93,4.5,Europe
+TXN-11165,2026-08-13,CUST-138,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,4764.43,3.5,Europe
+TXN-11166,2026-08-14,CUST-113,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1511.93,4.0,North America
+TXN-11167,2026-08-14,CUST-131,PROD-10,Demand Forecast Bot,Cloud Services,400.0,4,1600.0,715.37,3.0,North America
+TXN-11168,2026-08-15,CUST-147,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,2285.87,3.0,North America
+TXN-11169,2026-08-15,CUST-136,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,443.83,5.0,Europe
+TXN-11170,2026-08-16,CUST-145,PROD-02,ML Predictor Pro,Analytics Tools,600.0,2,1200.0,417.65,4.0,North America
+TXN-11171,2026-08-16,CUST-124,PROD-08,Recommendation Agent,Analytics Tools,680.0,4,2720.0,688.82,4.5,North America
+TXN-11172,2026-08-17,CUST-115,PROD-09,AutoML Workbench,Analytics Tools,1100.0,5,5500.0,2738.81,5.0,Latin America
+TXN-11173,2026-08-17,CUST-129,PROD-07,Vision AI Engine,AI Solutions,750.0,8,6000.0,2941.77,4.5,North America
+TXN-11174,2026-08-18,CUST-108,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,6,7200.0,2025.62,4.0,Asia Pacific
+TXN-11175,2026-08-18,CUST-105,PROD-09,AutoML Workbench,Analytics Tools,1100.0,4,4400.0,1861.45,4.5,Asia Pacific
+TXN-11176,2026-08-19,CUST-129,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,11,13200.0,5137.37,4.5,North America
+TXN-11177,2026-08-19,CUST-147,PROD-05,Smart BI Assistant,AI Solutions,500.0,7,3500.0,999.64,4.5,North America
+TXN-11178,2026-08-20,CUST-104,PROD-09,AutoML Workbench,Analytics Tools,1100.0,8,8800.0,4788.7,5.0,North America
+TXN-11179,2026-08-20,CUST-112,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,2,2400.0,754.58,5.0,Europe
+TXN-11180,2026-08-21,CUST-145,PROD-07,Vision AI Engine,AI Solutions,750.0,7,5250.0,1418.39,4.5,Europe
+TXN-11181,2026-08-21,CUST-102,PROD-01,AI Analytics Suite,AI Solutions,850.0,2,1700.0,728.37,4.0,Asia Pacific
+TXN-11182,2026-08-22,CUST-127,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,2,1900.0,896.15,4.5,Latin America
+TXN-11183,2026-08-22,CUST-131,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,8,7600.0,1973.97,3.5,Europe
+TXN-11184,2026-08-23,CUST-136,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,671.42,5.0,North America
+TXN-11185,2026-08-23,CUST-136,PROD-08,Recommendation Agent,Analytics Tools,680.0,11,7480.0,3064.46,3.5,North America
+TXN-11186,2026-08-24,CUST-126,PROD-01,AI Analytics Suite,AI Solutions,850.0,9,7650.0,2149.49,4.0,Asia Pacific
+TXN-11187,2026-08-24,CUST-143,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,150.88,5.0,North America
+TXN-11188,2026-08-25,CUST-127,PROD-07,Vision AI Engine,AI Solutions,750.0,9,6750.0,2837.65,4.5,North America
+TXN-11189,2026-08-25,CUST-105,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,1,950.0,321.96,4.0,Asia Pacific
+TXN-11190,2026-08-26,CUST-120,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,5049.2,4.5,Europe
+TXN-11191,2026-08-26,CUST-111,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,10,9500.0,4708.41,5.0,Latin America
+TXN-11192,2026-08-27,CUST-110,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,2,900.0,490.56,4.0,Europe
+TXN-11193,2026-08-27,CUST-140,PROD-07,Vision AI Engine,AI Solutions,750.0,6,4500.0,1475.56,5.0,North America
+TXN-11194,2026-08-28,CUST-138,PROD-02,ML Predictor Pro,Analytics Tools,600.0,6,3600.0,1947.3,3.5,Latin America
+TXN-11195,2026-08-28,CUST-106,PROD-05,Smart BI Assistant,AI Solutions,500.0,1,500.0,189.69,5.0,North America
+TXN-11196,2026-08-29,CUST-108,PROD-04,Data Pipeline Engine,Enterprise Software,950.0,7,6650.0,2355.8,5.0,North America
+TXN-11197,2026-08-29,CUST-123,PROD-03,Cloud Agent Hub,Cloud Services,1200.0,8,9600.0,2545.01,4.0,Europe
+TXN-11198,2026-08-30,CUST-147,PROD-07,Vision AI Engine,AI Solutions,750.0,2,1500.0,398.74,4.5,North America
+TXN-11199,2026-08-31,CUST-126,PROD-06,NLP Text Mining Kit,AI Solutions,450.0,8,3600.0,1647.37,4.0,Europe
